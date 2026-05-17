@@ -1,0 +1,3298 @@
+{
+    "pagination": {
+        "last_visible_page": 1207,
+        "has_next_page": true,
+        "current_page": 195,
+        "items": {
+            "count": 25,
+            "total": 30159,
+            "per_page": 25
+        }
+    },
+    "data": [
+        {
+            "mal_id": 7022,
+            "url": "https://myanimelist.net/anime/7022/G-senjou_no_Higeki",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/13/64697.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/13/64697t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/13/64697l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/13/64697.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/13/64697t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/13/64697l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "G-senjou no Higeki"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "G String"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Tragedy on the G Line"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "G\u7dda\u4e0a\u306e\u60b2\u5287"
+                }
+            ],
+            "title": "G-senjou no Higeki",
+            "title_english": null,
+            "title_japanese": "G\u7dda\u4e0a\u306e\u60b2\u5287",
+            "title_synonyms": [
+                "G String",
+                "Tragedy on the G Line"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1969-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1969
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1969"
+            },
+            "duration": "9 min",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 3.64,
+            "scored_by": 923,
+            "rank": 14950,
+            "popularity": 13482,
+            "members": 1599,
+            "favorites": 0,
+            "synopsis": "Short experimental animation from Yoji Kuri.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 7024,
+            "url": "https://myanimelist.net/anime/7024/Heya",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/6/16392.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/6/16392t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/6/16392l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/6/16392.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/6/16392t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/6/16392l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Heya"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Room"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u90e8\u5c4b"
+                }
+            ],
+            "title": "Heya",
+            "title_english": null,
+            "title_japanese": "\u90e8\u5c4b",
+            "title_synonyms": [
+                "The Room"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1967-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1967
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1967"
+            },
+            "duration": "4 min",
+            "rating": "R+ - Mild Nudity",
+            "score": 3.87,
+            "scored_by": 1272,
+            "rank": 14923,
+            "popularity": 12541,
+            "members": 2138,
+            "favorites": 2,
+            "synopsis": "Short experimental film from 1967 from animator Yoji Kuri.",
+            "background": "Winner of the 1967 Oofuji Noburou Award.",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                },
+                {
+                    "mal_id": 46,
+                    "type": "anime",
+                    "name": "Award Winning",
+                    "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 7025,
+            "url": "https://myanimelist.net/anime/7025/Kiseichuu_no_Ichiya",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1265/154242.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1265/154242t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1265/154242l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1265/154242.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1265/154242t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1265/154242l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kiseichuu no Ichiya"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5bc4\u751f\u866b\u306e\u4e00\u591c"
+                },
+                {
+                    "type": "English",
+                    "title": "The Midnight Parasites"
+                }
+            ],
+            "title": "Kiseichuu no Ichiya",
+            "title_english": "The Midnight Parasites",
+            "title_japanese": "\u5bc4\u751f\u866b\u306e\u4e00\u591c",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1972-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1972
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1972"
+            },
+            "duration": "9 min",
+            "rating": "R - 17+ (violence & profanity)",
+            "score": 5.1,
+            "scored_by": 1576,
+            "rank": 14198,
+            "popularity": 11272,
+            "members": 3043,
+            "favorites": 9,
+            "synopsis": "Short experimental animation from 1972 by Yoji Kuri.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                },
+                {
+                    "mal_id": 14,
+                    "type": "anime",
+                    "name": "Horror",
+                    "url": "https://myanimelist.net/anime/genre/14/Horror"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 7026,
+            "url": "https://myanimelist.net/anime/7026/Mado",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/7/69021.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/7/69021t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/7/69021l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/7/69021.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/7/69021t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/7/69021l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Mado"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Window"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u7a93"
+                }
+            ],
+            "title": "Mado",
+            "title_english": null,
+            "title_japanese": "\u7a93",
+            "title_synonyms": [
+                "The Window"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1965-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1965
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1965"
+            },
+            "duration": "5 min",
+            "rating": "G - All Ages",
+            "score": 4.66,
+            "scored_by": 700,
+            "rank": 14693,
+            "popularity": 14392,
+            "members": 1261,
+            "favorites": 0,
+            "synopsis": "Short experimental animation from 1965 by Yoji Kuri.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 7027,
+            "url": "https://myanimelist.net/anime/7027/Manga",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/5/16397.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/5/16397t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/5/16397l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/5/16397.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/5/16397t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/5/16397l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Manga"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u6f2b\u753b"
+                }
+            ],
+            "title": "Manga",
+            "title_english": null,
+            "title_japanese": "\u6f2b\u753b",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1977-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1977
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1977"
+            },
+            "duration": "7 min",
+            "rating": "G - All Ages",
+            "score": 4.67,
+            "scored_by": 861,
+            "rank": 14682,
+            "popularity": 13634,
+            "members": 1536,
+            "favorites": 3,
+            "synopsis": "Short experimental animation from Yoji Kuri.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 7028,
+            "url": "https://myanimelist.net/anime/7028/Pop",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/10/16398.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/10/16398t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/10/16398l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/10/16398.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/10/16398t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/10/16398l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Pop"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30dd\u30c3\u30d7"
+                }
+            ],
+            "title": "Pop",
+            "title_english": null,
+            "title_japanese": "\u30dd\u30c3\u30d7",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1974-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1974
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1974"
+            },
+            "duration": "2 min",
+            "rating": "G - All Ages",
+            "score": 3.81,
+            "scored_by": 1045,
+            "rank": 14935,
+            "popularity": 13202,
+            "members": 1729,
+            "favorites": 1,
+            "synopsis": "A jet-black train traverses the infinite and abstract landscape, its destination unknown. From a distance, its plume of smoke appears gentle\u2014its steady chugging noises inviting. In closer proximity, however, the mechanism is a marvelous beast, its monstrous bellows sure to rattle any spectators to their core. It rapidly churns forward, forever thrashing.\n\n[Written by MAL Rewrite]",
+            "background": "Pop consists of various monochrome images, including cel animation and drawings. The title is a reference to the sound of a passing train, as well as pop art. The animation won the second prize at the Zagreb Film Festival in Yugoslavia in 1974.",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 7029,
+            "url": "https://myanimelist.net/anime/7029/Tonari_no_Yarou",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/9/16399.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/9/16399t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/9/16399l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/9/16399.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/9/16399t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/9/16399l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Tonari no Yarou"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Guy Next Door"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "L'homme prochaine porte"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u96a3\u306e\u91ce\u90ce"
+                },
+                {
+                    "type": "English",
+                    "title": "The Man Next Door"
+                }
+            ],
+            "title": "Tonari no Yarou",
+            "title_english": "The Man Next Door",
+            "title_japanese": "\u96a3\u306e\u91ce\u90ce",
+            "title_synonyms": [
+                "The Guy Next Door",
+                "L'homme prochaine porte"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1965-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1965
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1965"
+            },
+            "duration": "9 min",
+            "rating": "G - All Ages",
+            "score": 4.64,
+            "scored_by": 710,
+            "rank": 14708,
+            "popularity": 14208,
+            "members": 1323,
+            "favorites": 1,
+            "synopsis": "For the man living next door, a quiet and restful sleep seems to be an elusive wish.\n\nExperimental short animation from 1965 from pioneer Yoji Kuri.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 7030,
+            "url": "https://myanimelist.net/anime/7030/Kemeko_no_Love",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/13/64691.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/13/64691t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/13/64691l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/13/64691.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/13/64691t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/13/64691l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kemeko no Love"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Love of Kemeko"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30b1\u30e1\u5b50\u306eLOVE"
+                }
+            ],
+            "title": "Kemeko no Love",
+            "title_english": null,
+            "title_japanese": "\u30b1\u30e1\u5b50\u306eLOVE",
+            "title_synonyms": [
+                "Love of Kemeko"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1968-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1968
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1968"
+            },
+            "duration": "3 min",
+            "rating": "PG - Children",
+            "score": 4.36,
+            "scored_by": 1000,
+            "rank": 14832,
+            "popularity": 13185,
+            "members": 1740,
+            "favorites": 0,
+            "synopsis": "Experimental short film from Yoji Kuri.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 7031,
+            "url": "https://myanimelist.net/anime/7031/Satsujinkyou_Jidai",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1196/129534.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1196/129534t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1196/129534l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1196/129534.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1196/129534t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1196/129534l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Satsujinkyou Jidai"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u6bba\u4eba\u72c2\u6642\u4ee3"
+                },
+                {
+                    "type": "English",
+                    "title": "Au Fou!"
+                }
+            ],
+            "title": "Satsujinkyou Jidai",
+            "title_english": "Au Fou!",
+            "title_japanese": "\u6bba\u4eba\u72c2\u6642\u4ee3",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1966-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1966
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1966"
+            },
+            "duration": "13 min",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 4.71,
+            "scored_by": 790,
+            "rank": 14648,
+            "popularity": 13849,
+            "members": 1452,
+            "favorites": 0,
+            "synopsis": "Short experimental animation film from 1966 from pioneer Kuri Yoji. \n\nTwo versions exist. The original monochrome version that is 13 min. And the edited international colour version that is 9 min.",
+            "background": "The edited international colour version that is 9 min. long has uncensored images of real life nudity from pornographic magazines. Please be mindful when selecting which version to view as one is not appropriate for minors.",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 7032,
+            "url": "https://myanimelist.net/anime/7032/Kitte_no_Gensou",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/2/64695.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/2/64695t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/2/64695l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/2/64695.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/2/64695t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/2/64695l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kitte no Gensou"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Stamp Fantasia"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Stamp Fantasy"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Fantasia of Stamps"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5207\u624b\u306e\u5e7b\u60f3"
+                }
+            ],
+            "title": "Kitte no Gensou",
+            "title_english": null,
+            "title_japanese": "\u5207\u624b\u306e\u5e7b\u60f3",
+            "title_synonyms": [
+                "Stamp Fantasia",
+                "Stamp Fantasy",
+                "Fantasia of Stamps"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1961-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1961
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1961"
+            },
+            "duration": "6 min",
+            "rating": "G - All Ages",
+            "score": 4.95,
+            "scored_by": 669,
+            "rank": 14408,
+            "popularity": 14518,
+            "members": 1226,
+            "favorites": 0,
+            "synopsis": "Short experimental animation from 1961 from animation pioneer Yoji Kuri.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 7041,
+            "url": "https://myanimelist.net/anime/7041/Seto_no_Hanayome_OVA_Specials",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/4/22430.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/4/22430t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/4/22430l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/4/22430.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/4/22430t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/4/22430l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Seto no Hanayome OVA Specials"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Seto no Hanayome OVA Omakes"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u702c\u6238\u306e\u82b1\u5ac1 OVA Extras"
+                },
+                {
+                    "type": "English",
+                    "title": "Seto no Hanayome OVA Extras"
+                }
+            ],
+            "title": "Seto no Hanayome OVA Specials",
+            "title_english": "Seto no Hanayome OVA Extras",
+            "title_japanese": "\u702c\u6238\u306e\u82b1\u5ac1 OVA Extras",
+            "title_synonyms": [
+                "Seto no Hanayome OVA Omakes"
+            ],
+            "type": "Special",
+            "source": "Manga",
+            "episodes": 2,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2008-11-03T00:00:00+00:00",
+                "to": "2009-01-05T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 3,
+                        "month": 11,
+                        "year": 2008
+                    },
+                    "to": {
+                        "day": 5,
+                        "month": 1,
+                        "year": 2009
+                    }
+                },
+                "string": "Nov 3, 2008 to Jan 5, 2009"
+            },
+            "duration": "40 sec per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.33,
+            "scored_by": 5232,
+            "rank": 3162,
+            "popularity": 6416,
+            "members": 13630,
+            "favorites": 2,
+            "synopsis": "30 seconds sketches/omakes from the OVAs.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 3,
+                    "type": "anime",
+                    "name": "Gonzo",
+                    "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 20,
+                    "type": "anime",
+                    "name": "Parody",
+                    "url": "https://myanimelist.net/anime/genre/20/Parody"
+                },
+                {
+                    "mal_id": 23,
+                    "type": "anime",
+                    "name": "School",
+                    "url": "https://myanimelist.net/anime/genre/23/School"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 7044,
+            "url": "https://myanimelist.net/anime/7044/Zan_Sayonara_Zetsubou_Sensei_Bangaichi",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/9/17699.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/9/17699t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/9/17699l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/9/17699.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/9/17699t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/9/17699l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Zan Sayonara Zetsubou Sensei Bangaichi"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Zan Sayonara Zetsubou Sensei OVA"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Zan Sayonara Zetsubou Sensei No Man's Land"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "ZSZSB"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u61fa\u3055\u3088\u306a\u3089\u7d76\u671b\u5148\u751f \u756a\u5916\u5730"
+                }
+            ],
+            "title": "Zan Sayonara Zetsubou Sensei Bangaichi",
+            "title_english": null,
+            "title_japanese": "\u61fa\u3055\u3088\u306a\u3089\u7d76\u671b\u5148\u751f \u756a\u5916\u5730",
+            "title_synonyms": [
+                "Zan Sayonara Zetsubou Sensei OVA",
+                "Zan Sayonara Zetsubou Sensei No Man's Land",
+                "ZSZSB"
+            ],
+            "type": "OVA",
+            "source": "Manga",
+            "episodes": 2,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2009-11-17T00:00:00+00:00",
+                "to": "2010-02-17T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 17,
+                        "month": 11,
+                        "year": 2009
+                    },
+                    "to": {
+                        "day": 17,
+                        "month": 2,
+                        "year": 2010
+                    }
+                },
+                "string": "Nov 17, 2009 to Feb 17, 2010"
+            },
+            "duration": "26 min per ep",
+            "rating": "R - 17+ (violence & profanity)",
+            "score": 7.77,
+            "scored_by": 17777,
+            "rank": 1281,
+            "popularity": 3956,
+            "members": 42852,
+            "favorites": 39,
+            "synopsis": "A new Sayonara Zetsubou Sensei OVA.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [
+                {
+                    "mal_id": 2981,
+                    "type": "anime",
+                    "name": "Omnibus Promotion",
+                    "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+                }
+            ],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 44,
+                    "type": "anime",
+                    "name": "Shaft",
+                    "url": "https://myanimelist.net/anime/producer/44/Shaft"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 57,
+                    "type": "anime",
+                    "name": "Gag Humor",
+                    "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+                },
+                {
+                    "mal_id": 20,
+                    "type": "anime",
+                    "name": "Parody",
+                    "url": "https://myanimelist.net/anime/genre/20/Parody"
+                },
+                {
+                    "mal_id": 23,
+                    "type": "anime",
+                    "name": "School",
+                    "url": "https://myanimelist.net/anime/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "anime",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/anime/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 7045,
+            "url": "https://myanimelist.net/anime/7045/Doraemon_Movie_21__Nobita_no_Taiyou_Ou_Densetsu",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/7/72426.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/7/72426t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/7/72426l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/7/72426.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/7/72426t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/7/72426l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Doraemon Movie 21: Nobita no Taiyou Ou Densetsu"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Doraemon: Nobita and the Legend of the Sun King"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u6620\u753b \u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u306e\u592a\u967d\u738b\u4f1d\u8aac"
+                },
+                {
+                    "type": "English",
+                    "title": "Doraemon the Movie: Nobita's the Legend of the Sun King"
+                },
+                {
+                    "type": "Spanish",
+                    "title": "Doraemon Pel\u00edcula 21: Doraemon y el Imperio Maya"
+                }
+            ],
+            "title": "Doraemon Movie 21: Nobita no Taiyou Ou Densetsu",
+            "title_english": "Doraemon the Movie: Nobita's the Legend of the Sun King",
+            "title_japanese": "\u6620\u753b \u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u306e\u592a\u967d\u738b\u4f1d\u8aac",
+            "title_synonyms": [
+                "Doraemon: Nobita and the Legend of the Sun King"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2000-03-11T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 11,
+                        "month": 3,
+                        "year": 2000
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Mar 11, 2000"
+            },
+            "duration": "1 hr 31 min",
+            "rating": "PG - Children",
+            "score": 7.45,
+            "scored_by": 8752,
+            "rank": 2501,
+            "popularity": 6408,
+            "members": 13693,
+            "favorites": 9,
+            "synopsis": "Doraemon and its friends open a hole in the time and they're travel to the Country of Mayana, a lost Mayan civilization in the jungle. There, Nobita will know its perfect double, prince Thio, heir to the throne. Both will decide to interchange papers to try to save to the Country of Mayana of the claws of the infernal Ledina witch and her evil forces.\n\n(Source: ANN)",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 247,
+                    "type": "anime",
+                    "name": "Shin-Ei Animation",
+                    "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 13,
+                    "type": "anime",
+                    "name": "Historical",
+                    "url": "https://myanimelist.net/anime/genre/13/Historical"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                },
+                {
+                    "mal_id": 27,
+                    "type": "anime",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/anime/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 7048,
+            "url": "https://myanimelist.net/anime/7048/Crush_Gear_Nitro",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1939/143980.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1939/143980t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1939/143980l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1939/143980.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1939/143980t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1939/143980l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Crush Gear Nitro"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30af\u30e9\u30c3\u30b7\u30e5\u30ae\u30a2Nitro"
+                }
+            ],
+            "title": "Crush Gear Nitro",
+            "title_english": null,
+            "title_japanese": "\u30af\u30e9\u30c3\u30b7\u30e5\u30ae\u30a2Nitro",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Unknown",
+            "episodes": 50,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2003-02-02T00:00:00+00:00",
+                "to": "2004-01-25T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 2,
+                        "month": 2,
+                        "year": 2003
+                    },
+                    "to": {
+                        "day": 25,
+                        "month": 1,
+                        "year": 2004
+                    }
+                },
+                "string": "Feb 2, 2003 to Jan 25, 2004"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 6.78,
+            "scored_by": 1050,
+            "rank": 6435,
+            "popularity": 12166,
+            "members": 2364,
+            "favorites": 3,
+            "synopsis": "Story about a young boy name: Mahha Masaru, who dreamt of having a crush gear fight with the others even though he doesn't have his very own crush gear!\n\nOne day,  a sudden chance came to him and he got the legendary crush gear which look similer to the one that was used by Kouya Marino and finally he can go and paticipate in his own crush gear fight with his friends and foe!!",
+            "background": "",
+            "season": "winter",
+            "year": 2003,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 14,
+                    "type": "anime",
+                    "name": "Sunrise",
+                    "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 30,
+                    "type": "anime",
+                    "name": "Sports",
+                    "url": "https://myanimelist.net/anime/genre/30/Sports"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 3,
+                    "type": "anime",
+                    "name": "Racing",
+                    "url": "https://myanimelist.net/anime/genre/3/Racing"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 7052,
+            "url": "https://myanimelist.net/anime/7052/Shinshuu_Sudama-hen",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1386/150991.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1386/150991t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1386/150991l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1386/150991.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1386/150991t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1386/150991l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Shinshuu Sudama-hen"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u795e\u5dde\u9b51\u9b45\u5909"
+                }
+            ],
+            "title": "Shinshuu Sudama-hen",
+            "title_english": null,
+            "title_japanese": "\u795e\u5dde\u9b51\u9b45\u5909",
+            "title_synonyms": [],
+            "type": "OVA",
+            "source": "Novel",
+            "episodes": 4,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1988-12-10T00:00:00+00:00",
+                "to": "1989-06-05T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 1988
+                    },
+                    "to": {
+                        "day": 5,
+                        "month": 6,
+                        "year": 1989
+                    }
+                },
+                "string": "Dec 10, 1988 to Jun 5, 1989"
+            },
+            "duration": "28 min per ep",
+            "rating": "R+ - Mild Nudity",
+            "score": 5.82,
+            "scored_by": 163,
+            "rank": 11942,
+            "popularity": 14680,
+            "members": 1175,
+            "favorites": 1,
+            "synopsis": "In medieval Japan's Genroku era, the young warrior Yoshiyasu Yanasawa approaches Takakaru, the leader of the Hazuki clan in search of the power of the Golden Dragon, unaware that the power of the dragon flows within the very bloodstream of the maiden Orie.\n\n(Source: The Anime Encyclopedia)",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 207,
+                    "type": "anime",
+                    "name": "Magic Bus",
+                    "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "anime",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/anime/genre/1/Action"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 13,
+                    "type": "anime",
+                    "name": "Historical",
+                    "url": "https://myanimelist.net/anime/genre/13/Historical"
+                },
+                {
+                    "mal_id": 17,
+                    "type": "anime",
+                    "name": "Martial Arts",
+                    "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+                },
+                {
+                    "mal_id": 21,
+                    "type": "anime",
+                    "name": "Samurai",
+                    "url": "https://myanimelist.net/anime/genre/21/Samurai"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 42,
+                    "type": "anime",
+                    "name": "Seinen",
+                    "url": "https://myanimelist.net/anime/genre/42/Seinen"
+                }
+            ]
+        },
+        {
+            "mal_id": 7053,
+            "url": "https://myanimelist.net/anime/7053/Fault",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1887/115575.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1887/115575t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1887/115575l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1887/115575.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1887/115575t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1887/115575l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Fault!!"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30d5\u30a9\u30eb\u30c8!!"
+                }
+            ],
+            "title": "Fault!!",
+            "title_english": null,
+            "title_japanese": "\u30d5\u30a9\u30eb\u30c8!!",
+            "title_synonyms": [],
+            "type": "OVA",
+            "source": "Visual novel",
+            "episodes": 3,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2009-11-20T00:00:00+00:00",
+                "to": "2011-05-20T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 20,
+                        "month": 11,
+                        "year": 2009
+                    },
+                    "to": {
+                        "day": 20,
+                        "month": 5,
+                        "year": 2011
+                    }
+                },
+                "string": "Nov 20, 2009 to May 20, 2011"
+            },
+            "duration": "29 min per ep",
+            "rating": "Rx - Hentai",
+            "score": 7.11,
+            "scored_by": 10900,
+            "rank": null,
+            "popularity": 4921,
+            "members": 26696,
+            "favorites": 159,
+            "synopsis": "Shuichi belongs to the tennis club. There are only five members in total, but he enjoys his school life with them. One day, the situation around him starts changing when Shuichi gets injured in an accident. While Ai, one of the members, takes a good care of him, Mio, his younger sister, stays grumpy. In such an ugly situation, a big accident happens which changes the whole situation...",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [
+                {
+                    "mal_id": 821,
+                    "type": "anime",
+                    "name": "Cotton Doll",
+                    "url": "https://myanimelist.net/anime/producer/821/Cotton_Doll"
+                },
+                {
+                    "mal_id": 823,
+                    "type": "anime",
+                    "name": "Lune-Pictures",
+                    "url": "https://myanimelist.net/anime/producer/823/Lune-Pictures"
+                }
+            ],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 405,
+                    "type": "anime",
+                    "name": "T-Rex",
+                    "url": "https://myanimelist.net/anime/producer/405/T-Rex"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 12,
+                    "type": "anime",
+                    "name": "Hentai",
+                    "url": "https://myanimelist.net/anime/genre/12/Hentai"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 7054,
+            "url": "https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/6/25254.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/6/25254t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/6/25254l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/6/25254.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/6/25254t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/6/25254l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kaichou wa Maid-sama!"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Class President is a Maid!"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u4f1a\u9577\u306f\u30e1\u30a4\u30c9\u69d8!"
+                },
+                {
+                    "type": "English",
+                    "title": "Maid Sama!"
+                }
+            ],
+            "title": "Kaichou wa Maid-sama!",
+            "title_english": "Maid Sama!",
+            "title_japanese": "\u4f1a\u9577\u306f\u30e1\u30a4\u30c9\u69d8!",
+            "title_synonyms": [
+                "Class President is a Maid!"
+            ],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2010-04-02T00:00:00+00:00",
+                "to": "2010-09-24T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 2,
+                        "month": 4,
+                        "year": 2010
+                    },
+                    "to": {
+                        "day": 24,
+                        "month": 9,
+                        "year": 2010
+                    }
+                },
+                "string": "Apr 2, 2010 to Sep 24, 2010"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.99,
+            "scored_by": 776874,
+            "rank": 773,
+            "popularity": 113,
+            "members": 1341176,
+            "favorites": 23825,
+            "synopsis": "Misaki Ayuzawa is a unique phenomenon within Seika High School. In a predominantly male institution, she became the first-ever female student council president through her honesty and diligence. Ever since Misaki got promoted to the position, she has been working tirelessly to ensure a better school life for all girls. Despite that, Misaki is very strict with the boys, which has earned her the title \"Demon President.\" \n\nOne day, after hearing a girl cry in the hallway, Misaki encounters Takumi Usui\u2014the most popular boy in the school\u2014as he rejects a love confession. Enraged at what she is seeing, Misaki reprimands him for making the girl cry. However, Usui is indifferent and brushes it off as nothing.\n\nUnexpectedly, Misaki soon runs into Usui again, but this time when she is working at a maid cafe! Embarrassed that someone has found out about her secret occupation, Misaki promises herself not to let Usui destroy her reputation. However, the mysterious boy now begins to visit the same cafe regularly to observe and tease Misaki. When push comes to shove, will Usui still be able to keep the president's secret?\n\n[Written by MAL Rewrite]",
+            "background": "Kaichou wa Maid-sama! has also received a drama CD in Japan.",
+            "season": "spring",
+            "year": 2010,
+            "broadcast": {
+                "day": "Fridays",
+                "time": "01:55",
+                "timezone": "Asia/Tokyo",
+                "string": "Fridays at 01:55 (JST)"
+            },
+            "producers": [
+                {
+                    "mal_id": 31,
+                    "type": "anime",
+                    "name": "Geneon Universal Entertainment",
+                    "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+                },
+                {
+                    "mal_id": 145,
+                    "type": "anime",
+                    "name": "TBS",
+                    "url": "https://myanimelist.net/anime/producer/145/TBS"
+                },
+                {
+                    "mal_id": 148,
+                    "type": "anime",
+                    "name": "Hakusensha",
+                    "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+                },
+                {
+                    "mal_id": 213,
+                    "type": "anime",
+                    "name": "Half H.P Studio",
+                    "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+                }
+            ],
+            "licensors": [
+                {
+                    "mal_id": 376,
+                    "type": "anime",
+                    "name": "Sentai Filmworks",
+                    "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+                }
+            ],
+            "studios": [
+                {
+                    "mal_id": 7,
+                    "type": "anime",
+                    "name": "J.C.Staff",
+                    "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "anime",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/anime/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 23,
+                    "type": "anime",
+                    "name": "School",
+                    "url": "https://myanimelist.net/anime/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "anime",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 7058,
+            "url": "https://myanimelist.net/anime/7058/Uragiri_wa_Boku_no_Namae_wo_Shitteiru",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1639/120408.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1639/120408t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1639/120408l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1639/120408.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1639/120408t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1639/120408l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": "https://www.youtube-nocookie.com/embed/s5-_LQ3luEU?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Uragiri wa Boku no Namae wo Shitteiru"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Uraboku"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u88cf\u5207\u308a\u306f\u50d5\u306e\u540d\u524d\u3092\u77e5\u3063\u3066\u3044\u308b"
+                },
+                {
+                    "type": "English",
+                    "title": "The Betrayal Knows My Name"
+                },
+                {
+                    "type": "German",
+                    "title": "The Betrayal Knows My Name"
+                },
+                {
+                    "type": "French",
+                    "title": "The Betrayal Knows My Name"
+                }
+            ],
+            "title": "Uragiri wa Boku no Namae wo Shitteiru",
+            "title_english": "The Betrayal Knows My Name",
+            "title_japanese": "\u88cf\u5207\u308a\u306f\u50d5\u306e\u540d\u524d\u3092\u77e5\u3063\u3066\u3044\u308b",
+            "title_synonyms": [
+                "Uraboku"
+            ],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 24,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2010-04-12T00:00:00+00:00",
+                "to": "2010-09-20T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 12,
+                        "month": 4,
+                        "year": 2010
+                    },
+                    "to": {
+                        "day": 20,
+                        "month": 9,
+                        "year": 2010
+                    }
+                },
+                "string": "Apr 12, 2010 to Sep 20, 2010"
+            },
+            "duration": "23 min per ep",
+            "rating": "R - 17+ (violence & profanity)",
+            "score": 7.22,
+            "scored_by": 40312,
+            "rank": 3901,
+            "popularity": 2258,
+            "members": 108961,
+            "favorites": 1031,
+            "synopsis": "Growing up as an orphan, Yuki Sakurai questions his reason for living and ability to see a person's painful memory by simply touching them. After receiving anonymous notes telling him to die, Yuki is unable to shake off the nagging feeling forming inside of him. Unbeknownst to him, he is being watched, both by people who want to harm him and those who want to protect him.\n\nOne foggy night, Yuki's life is saved by a beautiful man with silver eyes and jet black hair\u2014a man he has never met before yet seems familiar. With the arrival of this mysterious stranger, Yuki's forgotten past has been awakened and the purpose of his existence has appeared before him.\n\nUragiri wa Boku no Namae wo Shitteiru tells the story of a teenage boy as he discovers who he is and where he comes from\u2014all while making friends, experiencing betrayal, and slowly piecing together the puzzle of his past.\n\n[Written by MAL Rewrite]",
+            "background": "",
+            "season": "spring",
+            "year": 2010,
+            "broadcast": {
+                "day": "Mondays",
+                "time": "00:00",
+                "timezone": "Asia/Tokyo",
+                "string": "Mondays at 00:00 (JST)"
+            },
+            "producers": [
+                {
+                    "mal_id": 113,
+                    "type": "anime",
+                    "name": "Kadokawa Shoten",
+                    "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+                },
+                {
+                    "mal_id": 464,
+                    "type": "anime",
+                    "name": "flying DOG",
+                    "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+                }
+            ],
+            "licensors": [
+                {
+                    "mal_id": 102,
+                    "type": "anime",
+                    "name": "Funimation",
+                    "url": "https://myanimelist.net/anime/producer/102/Funimation"
+                }
+            ],
+            "studios": [
+                {
+                    "mal_id": 7,
+                    "type": "anime",
+                    "name": "J.C.Staff",
+                    "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 28,
+                    "type": "anime",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/anime/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "anime",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/anime/genre/8/Drama"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "anime",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 6,
+                    "type": "anime",
+                    "name": "Mythology",
+                    "url": "https://myanimelist.net/anime/genre/6/Mythology"
+                },
+                {
+                    "mal_id": 72,
+                    "type": "anime",
+                    "name": "Reincarnation",
+                    "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "anime",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 7059,
+            "url": "https://myanimelist.net/anime/7059/Black\u2605Rock_Shooter_OVA",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/6/22417.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/6/22417t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/6/22417l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/6/22417.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/6/22417t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/6/22417l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Black\u2605Rock Shooter (OVA)"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "BRS OVA"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30d6\u30e9\u30c3\u30af\u2605\u30ed\u30c3\u30af\u30b7\u30e5\u30fc\u30bf\u30fc"
+                }
+            ],
+            "title": "Black\u2605Rock Shooter (OVA)",
+            "title_english": null,
+            "title_japanese": "\u30d6\u30e9\u30c3\u30af\u2605\u30ed\u30c3\u30af\u30b7\u30e5\u30fc\u30bf\u30fc",
+            "title_synonyms": [
+                "BRS OVA"
+            ],
+            "type": "OVA",
+            "source": "Other",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2010-07-24T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 24,
+                        "month": 7,
+                        "year": 2010
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Jul 24, 2010"
+            },
+            "duration": "52 min",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.11,
+            "scored_by": 108626,
+            "rank": 4550,
+            "popularity": 1546,
+            "members": 179358,
+            "favorites": 814,
+            "synopsis": "On her first day of junior high school, Mato Kuroi meets Yomi Takanashi. Though Yomi is initially taken aback by Mato's straightforward personality, the pair quickly becomes friends and begin to spend time together daily. As a sign of their friendship, Mato gives Yomi a cell phone charm\u2014a blue star, identical to her own.\n \nHowever, when the two enter their second year, their relationship starts to change. Placed in a different class, Mato begins to spend more time with Yuu Koutari instead, a girl she met through the basketball team. In fact, the former best friends drift apart so much so that Mato cannot find Yomi anywhere, as if she had disappeared entirely.\n\nElsewhere, Black\u2605Rock Shooter is on a quest to vanquish the Dead Master. These two, while opposed, bear a connection not unlike Mato and Yomi. As their stories begin to cross, it seems Yomi's disappearance may have to do with the blue star-shaped charm and the legendary gunslinger herself.\n\n[Written by MAL Rewrite]",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [
+                {
+                    "mal_id": 211,
+                    "type": "anime",
+                    "name": "Rakuonsha",
+                    "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+                },
+                {
+                    "mal_id": 1261,
+                    "type": "anime",
+                    "name": "Good Smile Company",
+                    "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+                }
+            ],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 334,
+                    "type": "anime",
+                    "name": "Ordet",
+                    "url": "https://myanimelist.net/anime/producer/334/Ordet"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "anime",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/anime/genre/1/Action"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "anime",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/anime/genre/8/Drama"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 23,
+                    "type": "anime",
+                    "name": "School",
+                    "url": "https://myanimelist.net/anime/genre/23/School"
+                },
+                {
+                    "mal_id": 31,
+                    "type": "anime",
+                    "name": "Super Power",
+                    "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 7060,
+            "url": "https://myanimelist.net/anime/7060/Ring_of_Gundam",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1819/150567.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1819/150567t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1819/150567l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1819/150567.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1819/150567t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1819/150567l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Ring of Gundam"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30ea\u30f3\u30b0\u3000\u30aa\u30d6\u3000\u30ac\u30f3\u30c0\u30e0"
+                },
+                {
+                    "type": "English",
+                    "title": "Ring of Gundam"
+                }
+            ],
+            "title": "Ring of Gundam",
+            "title_english": "Ring of Gundam",
+            "title_japanese": "\u30ea\u30f3\u30b0\u3000\u30aa\u30d6\u3000\u30ac\u30f3\u30c0\u30e0",
+            "title_synonyms": [],
+            "type": "Special",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2009-08-29T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 29,
+                        "month": 8,
+                        "year": 2009
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Aug 29, 2009"
+            },
+            "duration": "5 min",
+            "rating": "G - All Ages",
+            "score": 5.15,
+            "scored_by": 2331,
+            "rank": 14124,
+            "popularity": 9104,
+            "members": 5748,
+            "favorites": 4,
+            "synopsis": "The story of \"Ring of Gundam\" takes place in a new era long after the events of the first Mobile Suit Gundam series' One-Year War. In this world setting, a giant 600-kilometer-wide ring now floats in lunar orbit. An Earth Federation Forces member named Eiji discovers an object called \"Beauty Memory\" buried in a high-altitude, massive rockbed on Earth.\n\n(Source: ANN)",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [
+                {
+                    "mal_id": 249,
+                    "type": "anime",
+                    "name": "Robot Communications",
+                    "url": "https://myanimelist.net/anime/producer/249/Robot_Communications"
+                }
+            ],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 14,
+                    "type": "anime",
+                    "name": "Sunrise",
+                    "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 24,
+                    "type": "anime",
+                    "name": "Sci-Fi",
+                    "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 18,
+                    "type": "anime",
+                    "name": "Mecha",
+                    "url": "https://myanimelist.net/anime/genre/18/Mecha"
+                },
+                {
+                    "mal_id": 29,
+                    "type": "anime",
+                    "name": "Space",
+                    "url": "https://myanimelist.net/anime/genre/29/Space"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 7062,
+            "url": "https://myanimelist.net/anime/7062/Hidamari_Sketch_x_\u2606\u2606\u2606",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/9/22349.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/9/22349t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/9/22349l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/9/22349.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/9/22349t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/9/22349l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": "https://www.youtube-nocookie.com/embed/JBJEHR0qtWc?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Hidamari Sketch x \u2606\u2606\u2606"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Hidamari Sketch x Hoshi Mittsu"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Hidamari Sketch 3rd Season"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u3072\u3060\u307e\u308a\u30b9\u30b1\u30c3\u30c1\u00d7\u2606\u2606\u2606"
+                }
+            ],
+            "title": "Hidamari Sketch x \u2606\u2606\u2606",
+            "title_english": null,
+            "title_japanese": "\u3072\u3060\u307e\u308a\u30b9\u30b1\u30c3\u30c1\u00d7\u2606\u2606\u2606",
+            "title_synonyms": [
+                "Hidamari Sketch x Hoshi Mittsu",
+                "Hidamari Sketch 3rd Season"
+            ],
+            "type": "TV",
+            "source": "4-koma manga",
+            "episodes": 12,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2010-01-08T00:00:00+00:00",
+                "to": "2010-03-26T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 8,
+                        "month": 1,
+                        "year": 2010
+                    },
+                    "to": {
+                        "day": 26,
+                        "month": 3,
+                        "year": 2010
+                    }
+                },
+                "string": "Jan 8, 2010 to Mar 26, 2010"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.94,
+            "scored_by": 14616,
+            "rank": 849,
+            "popularity": 4610,
+            "members": 31312,
+            "favorites": 151,
+            "synopsis": "When we first met Yuno, she'd just been accepted to the prestigious Yamabuki Art School, and it was up to her new neighbors at Hidamari to help her find her way in the big scary world. Now a seasoned vet of the Hidamari Apartments herself, Yuno's newest challenge is to help the latest arrivals, Nazuna and Nori, acclimate to life on their own. Of course, since it IS Hidamari, there are still lots of trials and tribulations ahead, and nothing will ever go quite as expected. But with friends like Miyako, Hiro, and Sae ready to lend a hand, there will always be a ray of sunshine at the end of every storm in Hidamari Sketch x Hoshimittsu.\n\n(Source: Sentai Filmworks)",
+            "background": "",
+            "season": "winter",
+            "year": 2010,
+            "broadcast": {
+                "day": "Fridays",
+                "time": "01:29",
+                "timezone": "Asia/Tokyo",
+                "string": "Fridays at 01:29 (JST)"
+            },
+            "producers": [
+                {
+                    "mal_id": 17,
+                    "type": "anime",
+                    "name": "Aniplex",
+                    "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+                },
+                {
+                    "mal_id": 104,
+                    "type": "anime",
+                    "name": "Lantis",
+                    "url": "https://myanimelist.net/anime/producer/104/Lantis"
+                },
+                {
+                    "mal_id": 145,
+                    "type": "anime",
+                    "name": "TBS",
+                    "url": "https://myanimelist.net/anime/producer/145/TBS"
+                },
+                {
+                    "mal_id": 166,
+                    "type": "anime",
+                    "name": "Movic",
+                    "url": "https://myanimelist.net/anime/producer/166/Movic"
+                },
+                {
+                    "mal_id": 797,
+                    "type": "anime",
+                    "name": "Houbunsha",
+                    "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+                },
+                {
+                    "mal_id": 2981,
+                    "type": "anime",
+                    "name": "Omnibus Promotion",
+                    "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+                }
+            ],
+            "licensors": [
+                {
+                    "mal_id": 376,
+                    "type": "anime",
+                    "name": "Sentai Filmworks",
+                    "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+                }
+            ],
+            "studios": [
+                {
+                    "mal_id": 44,
+                    "type": "anime",
+                    "name": "Shaft",
+                    "url": "https://myanimelist.net/anime/producer/44/Shaft"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 36,
+                    "type": "anime",
+                    "name": "Slice of Life",
+                    "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 52,
+                    "type": "anime",
+                    "name": "CGDCT",
+                    "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+                },
+                {
+                    "mal_id": 63,
+                    "type": "anime",
+                    "name": "Iyashikei",
+                    "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+                },
+                {
+                    "mal_id": 23,
+                    "type": "anime",
+                    "name": "School",
+                    "url": "https://myanimelist.net/anime/genre/23/School"
+                },
+                {
+                    "mal_id": 80,
+                    "type": "anime",
+                    "name": "Visual Arts",
+                    "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 7066,
+            "url": "https://myanimelist.net/anime/7066/Mahoromatic__Tadaima_Okaeri",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/10/16503.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/10/16503t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/10/16503l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/10/16503.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/10/16503t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/10/16503l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Mahoromatic: Tadaima Okaeri"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Mahoromatic: Tadaima\u25c7Okaeri"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u307e\u307b\u308d\u307e\u3066\u3043\u3063\u304f \u305f\u3060\u3044\u307e\u25c7\u304a\u304b\u3048\u308a"
+                },
+                {
+                    "type": "English",
+                    "title": "Mahoromatic: I'm Home!"
+                }
+            ],
+            "title": "Mahoromatic: Tadaima Okaeri",
+            "title_english": "Mahoromatic: I'm Home!",
+            "title_japanese": "\u307e\u307b\u308d\u307e\u3066\u3043\u3063\u304f \u305f\u3060\u3044\u307e\u25c7\u304a\u304b\u3048\u308a",
+            "title_synonyms": [
+                "Mahoromatic: Tadaima\u25c7Okaeri"
+            ],
+            "type": "TV Special",
+            "source": "Manga",
+            "episodes": 2,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2009-10-17T00:00:00+00:00",
+                "to": "2009-10-24T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 17,
+                        "month": 10,
+                        "year": 2009
+                    },
+                    "to": {
+                        "day": 24,
+                        "month": 10,
+                        "year": 2009
+                    }
+                },
+                "string": "Oct 17, 2009 to Oct 24, 2009"
+            },
+            "duration": "23 min per ep",
+            "rating": "R+ - Mild Nudity",
+            "score": 7.03,
+            "scored_by": 4390,
+            "rank": 5035,
+            "popularity": 7087,
+            "members": 10761,
+            "favorites": 5,
+            "synopsis": "Suguru and his classmates prepare for a maid caf\u00e9 to celebrate the town's anniversary. Meanwhile, Minawa is attacked by robots. Mahoro tries to save Minawa and help Suguru and his classmates prepare for the maid caf\u00e9.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [
+                {
+                    "mal_id": 376,
+                    "type": "anime",
+                    "name": "Sentai Filmworks",
+                    "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+                }
+            ],
+            "studios": [
+                {
+                    "mal_id": 6,
+                    "type": "anime",
+                    "name": "Gainax",
+                    "url": "https://myanimelist.net/anime/producer/6/Gainax"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "anime",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/anime/genre/22/Romance"
+                },
+                {
+                    "mal_id": 24,
+                    "type": "anime",
+                    "name": "Sci-Fi",
+                    "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+                },
+                {
+                    "mal_id": 9,
+                    "type": "anime",
+                    "name": "Ecchi",
+                    "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 42,
+                    "type": "anime",
+                    "name": "Seinen",
+                    "url": "https://myanimelist.net/anime/genre/42/Seinen"
+                }
+            ]
+        },
+        {
+            "mal_id": 7071,
+            "url": "https://myanimelist.net/anime/7071/Shoujouji_no_Tanuki-bayashi",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/7/16501.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/7/16501t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/7/16501l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/7/16501.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/7/16501t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/7/16501l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Shoujouji no Tanuki-bayashi"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Shojoji no Tanuki-bayashi"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u8b49\u57ce\u5bfa\u306e\u72f8\u56c3\u5b50"
+                },
+                {
+                    "type": "English",
+                    "title": "Belly Drum Dance at Shojoji Temple"
+                }
+            ],
+            "title": "Shoujouji no Tanuki-bayashi",
+            "title_english": "Belly Drum Dance at Shojoji Temple",
+            "title_japanese": "\u8b49\u57ce\u5bfa\u306e\u72f8\u56c3\u5b50",
+            "title_synonyms": [
+                "Shojoji no Tanuki-bayashi"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1933-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1933
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1933"
+            },
+            "duration": "1 min",
+            "rating": "G - All Ages",
+            "score": 4.66,
+            "scored_by": 673,
+            "rank": 14694,
+            "popularity": 14431,
+            "members": 1250,
+            "favorites": 0,
+            "synopsis": "Short movie adapting the song of the same name.",
+            "background": "There is some confusion over the exact date this film was released. Digital Meme lists it as 1933, the National Film Centre as in the early 1930s, the imdb has it at 1935 and Wikipedia as 1931. (Source: Nishikata Film Review)",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 7079,
+            "url": "https://myanimelist.net/anime/7079/Ookamikakushi",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/10/21784.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/10/21784t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/10/21784l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/10/21784.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/10/21784t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/10/21784l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": "https://www.youtube-nocookie.com/embed/MpbOTIsQryg?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Ookamikakushi"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Wolfed Away"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u304a\u304a\u304b\u307f\u304b\u304f\u3057"
+                },
+                {
+                    "type": "English",
+                    "title": "Okamikakushi: Masque of the Wolf"
+                }
+            ],
+            "title": "Ookamikakushi",
+            "title_english": "Okamikakushi: Masque of the Wolf",
+            "title_japanese": "\u304a\u304a\u304b\u307f\u304b\u304f\u3057",
+            "title_synonyms": [
+                "Wolfed Away"
+            ],
+            "type": "TV",
+            "source": "Visual novel",
+            "episodes": 12,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2010-01-08T00:00:00+00:00",
+                "to": "2010-03-26T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 8,
+                        "month": 1,
+                        "year": 2010
+                    },
+                    "to": {
+                        "day": 26,
+                        "month": 3,
+                        "year": 2010
+                    }
+                },
+                "string": "Jan 8, 2010 to Mar 26, 2010"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 6.34,
+            "scored_by": 32204,
+            "rank": 9145,
+            "popularity": 2830,
+            "members": 76824,
+            "favorites": 92,
+            "synopsis": "Due to his father's job, 15-year-old Hiroshi Kuzumi and his family move to the mountain town of Jouga. While some teenagers might have to worry about fitting in or feel out of place in a new environment, Hiroshi is welcomed enthusiastically at school by most of his new classmates. In fact, it seems like they just can't get enough of him, and he makes two friends rather quickly: the clingy and overly-affectionate Isuzu Tsumuhana, who is also his neighbor; and Kaname Asagiri, who also recently moved to Jouga. All in all, Hiroshi's new life seems to be quite normal\u2014until people start disappearing.\n\nHiroshi is told that the missing townsfolk have simply moved away or suddenly transferred, but he can't shake the feeling that something is wrong. Meanwhile, in the dead of night under a red moon, masked individuals led by a girl with a scythe stalk their prey in the darkened streets of Jouga. Who are they, and are any of the residents safe from their wrath?\n\n[Written by MAL Rewrite]",
+            "background": "Ookamikakushi is an adaptation of the 2009 PlayStation Portable visual novel of the same name, developed and published by Konami. The anime was released on DVD and Blu-ray by Sentai Filmworks as Okamikakushi: Masque of the Wolf on May 28, 2013 and December 16, 2014 respectively.",
+            "season": "winter",
+            "year": 2010,
+            "broadcast": {
+                "day": "Fridays",
+                "time": "01:59",
+                "timezone": "Asia/Tokyo",
+                "string": "Fridays at 01:59 (JST)"
+            },
+            "producers": [
+                {
+                    "mal_id": 145,
+                    "type": "anime",
+                    "name": "TBS",
+                    "url": "https://myanimelist.net/anime/producer/145/TBS"
+                },
+                {
+                    "mal_id": 464,
+                    "type": "anime",
+                    "name": "flying DOG",
+                    "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+                }
+            ],
+            "licensors": [
+                {
+                    "mal_id": 376,
+                    "type": "anime",
+                    "name": "Sentai Filmworks",
+                    "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+                }
+            ],
+            "studios": [
+                {
+                    "mal_id": 48,
+                    "type": "anime",
+                    "name": "AIC",
+                    "url": "https://myanimelist.net/anime/producer/48/AIC"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 14,
+                    "type": "anime",
+                    "name": "Horror",
+                    "url": "https://myanimelist.net/anime/genre/14/Horror"
+                },
+                {
+                    "mal_id": 7,
+                    "type": "anime",
+                    "name": "Mystery",
+                    "url": "https://myanimelist.net/anime/genre/7/Mystery"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "anime",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+                },
+                {
+                    "mal_id": 41,
+                    "type": "anime",
+                    "name": "Suspense",
+                    "url": "https://myanimelist.net/anime/genre/41/Suspense"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 40,
+                    "type": "anime",
+                    "name": "Psychological",
+                    "url": "https://myanimelist.net/anime/genre/40/Psychological"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 7081,
+            "url": "https://myanimelist.net/anime/7081/Danball_Senki",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1937/94703.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1937/94703t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1937/94703l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1937/94703.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1937/94703t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1937/94703l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": "https://www.youtube-nocookie.com/embed/yx5DwQiT6Y0?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Danball Senki"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Danbooru Senki"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Cardboard War Chronicles"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30c0\u30f3\u30dc\u30fc\u30eb\u6226\u6a5f"
+                },
+                {
+                    "type": "English",
+                    "title": "LBX: Little Battlers eXperience"
+                }
+            ],
+            "title": "Danball Senki",
+            "title_english": "LBX: Little Battlers eXperience",
+            "title_japanese": "\u30c0\u30f3\u30dc\u30fc\u30eb\u6226\u6a5f",
+            "title_synonyms": [
+                "Danbooru Senki",
+                "Cardboard War Chronicles"
+            ],
+            "type": "TV",
+            "source": "Game",
+            "episodes": 44,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2011-03-02T00:00:00+00:00",
+                "to": "2012-01-11T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 2,
+                        "month": 3,
+                        "year": 2011
+                    },
+                    "to": {
+                        "day": 11,
+                        "month": 1,
+                        "year": 2012
+                    }
+                },
+                "string": "Mar 2, 2011 to Jan 11, 2012"
+            },
+            "duration": "23 min per ep",
+            "rating": "G - All Ages",
+            "score": 7.1,
+            "scored_by": 5368,
+            "rank": 4623,
+            "popularity": 6821,
+            "members": 11789,
+            "favorites": 58,
+            "synopsis": "In 2046, a revolutionary 80% shock-absorbing reinforced cardboard has been developed, rapidly transforming the world's exports. The reinforced cardboard would soon become the battleground for a popular children's hobby called \"LBX\" (Little Battler eXperience).\n\nFour years later, a boy named Yamano Ban who loves to play with LBX (although without a mecha himself) is given a case containing the model AX-00 by a mysterious woman. He is told that he now holds the hopes and despairs of mankind in his hands.",
+            "background": "",
+            "season": "spring",
+            "year": 2011,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Wednesdays at Unknown"
+            },
+            "producers": [
+                {
+                    "mal_id": 16,
+                    "type": "anime",
+                    "name": "TV Tokyo",
+                    "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+                },
+                {
+                    "mal_id": 53,
+                    "type": "anime",
+                    "name": "Dentsu",
+                    "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+                }
+            ],
+            "licensors": [
+                {
+                    "mal_id": 791,
+                    "type": "anime",
+                    "name": "Dentsu Entertainment USA",
+                    "url": "https://myanimelist.net/anime/producer/791/Dentsu_Entertainment_USA"
+                }
+            ],
+            "studios": [
+                {
+                    "mal_id": 28,
+                    "type": "anime",
+                    "name": "OLM",
+                    "url": "https://myanimelist.net/anime/producer/28/OLM"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 18,
+                    "type": "anime",
+                    "name": "Mecha",
+                    "url": "https://myanimelist.net/anime/genre/18/Mecha"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        }
+    ]
+}
