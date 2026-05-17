@@ -8,10 +8,10 @@ def extract_all_anime():
     #create folder if not exists
     os.makedirs("data/raw",exist_ok=True)
 
-    page=200
+    page=400
     has_next_page=True
 
-    while has_next_page and page <400:
+    while has_next_page and page <600:
         try:
 
             url=f"https://api.jikan.moe/v4/anime?page={page}"

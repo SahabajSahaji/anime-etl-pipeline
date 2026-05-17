@@ -1,0 +1,2822 @@
+{
+    "pagination": {
+        "last_visible_page": 1207,
+        "has_next_page": true,
+        "current_page": 402,
+        "items": {
+            "count": 25,
+            "total": 30159,
+            "per_page": 25
+        }
+    },
+    "data": [
+        {
+            "mal_id": 29589,
+            "url": "https://myanimelist.net/anime/29589/Denpa_Kyoushi",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/4/73475.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/4/73475t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/4/73475l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/4/73475.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/4/73475t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/4/73475l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": "https://www.youtube-nocookie.com/embed/WxDQDGNm1SU?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Denpa Kyoushi"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "He Is an Ultimate Teacher"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u96fb\u6ce2\u6559\u5e2b"
+                },
+                {
+                    "type": "English",
+                    "title": "Ultimate Otaku Teacher"
+                }
+            ],
+            "title": "Denpa Kyoushi",
+            "title_english": "Ultimate Otaku Teacher",
+            "title_japanese": "\u96fb\u6ce2\u6559\u5e2b",
+            "title_synonyms": [
+                "He Is an Ultimate Teacher"
+            ],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 24,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-04-04T00:00:00+00:00",
+                "to": "2015-09-26T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 4,
+                        "month": 4,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": 26,
+                        "month": 9,
+                        "year": 2015
+                    }
+                },
+                "string": "Apr 4, 2015 to Sep 26, 2015"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 6.86,
+            "scored_by": 72601,
+            "rank": 5945,
+            "popularity": 1669,
+            "members": 163416,
+            "favorites": 326,
+            "synopsis": "Junichirou Kagami is a young published physicist, a genius, and a hopeless otaku. At the mercy of YD, a self-diagnosed illness which causes him to only be able to do what he \"Yearns to Do,\" Junichirou foregoes his scientific career to maintain and improve his anime blog. However, when he gets hired as a high school physics teacher; his sister Suzune, no longer willing to tolerate his NEET lifestyle, forces him to take the position. \n\nDespite the fact that Junichirou has no motivation to teach the standard curriculum, he may still have something of value to teach his students outside of academics. With his class in tow, Junichirou embarks on an unlikely journey filled with life lessons such as acceptance of others, how to make lasting friends, and what it means to live a better life by doing what you yearn to do.\n\n[Written by MAL Rewrite]",
+            "background": "",
+            "season": "spring",
+            "year": 2015,
+            "broadcast": {
+                "day": "Saturdays",
+                "time": "17:30",
+                "timezone": "Asia/Tokyo",
+                "string": "Saturdays at 17:30 (JST)"
+            },
+            "producers": [
+                {
+                    "mal_id": 76,
+                    "type": "anime",
+                    "name": "Yomiuri Telecasting",
+                    "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+                },
+                {
+                    "mal_id": 1430,
+                    "type": "anime",
+                    "name": "Shogakukan",
+                    "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+                }
+            ],
+            "licensors": [
+                {
+                    "mal_id": 102,
+                    "type": "anime",
+                    "name": "Funimation",
+                    "url": "https://myanimelist.net/anime/producer/102/Funimation"
+                }
+            ],
+            "studios": [
+                {
+                    "mal_id": 56,
+                    "type": "anime",
+                    "name": "A-1 Pictures",
+                    "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "anime",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/anime/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 69,
+                    "type": "anime",
+                    "name": "Otaku Culture",
+                    "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+                },
+                {
+                    "mal_id": 23,
+                    "type": "anime",
+                    "name": "School",
+                    "url": "https://myanimelist.net/anime/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "anime",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/anime/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 29597,
+            "url": "https://myanimelist.net/anime/29597/Hana",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/4/71195.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/4/71195t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/4/71195l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/4/71195.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/4/71195t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/4/71195l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Hana"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u82b1"
+                },
+                {
+                    "type": "English",
+                    "title": "Flower"
+                }
+            ],
+            "title": "Hana",
+            "title_english": "Flower",
+            "title_japanese": "\u82b1",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1967-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1967
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1967"
+            },
+            "duration": "1 min",
+            "rating": "G - All Ages",
+            "score": 4.33,
+            "scored_by": 733,
+            "rank": 14843,
+            "popularity": 14355,
+            "members": 1277,
+            "favorites": 0,
+            "synopsis": "A short film by Kuri Youji. A man plants a flower and waits for it to bear fruit...",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 29603,
+            "url": "https://myanimelist.net/anime/29603/Kurokan",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/10/71221.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/10/71221t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/10/71221l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/10/71221.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/10/71221t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/10/71221l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kurokan"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30af\u30ed\u30ab\u30f3"
+                }
+            ],
+            "title": "Kurokan",
+            "title_english": null,
+            "title_japanese": "\u30af\u30ed\u30ab\u30f3",
+            "title_synonyms": [],
+            "type": "ONA",
+            "source": "Manga",
+            "episodes": 33,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2013-01-01T00:00:00+00:00",
+                "to": "2014-01-01T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2013
+                    },
+                    "to": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2014
+                    }
+                },
+                "string": "Jan 1, 2013 to 2014"
+            },
+            "duration": "12 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 6.18,
+            "scored_by": 163,
+            "rank": 10052,
+            "popularity": 17044,
+            "members": 662,
+            "favorites": 0,
+            "synopsis": "To Kirino High, the goal of getting into Koshien Stadium becomes important because the 100th anniversary is around the corner. However, Kurokan's unique way of training has upset the Kirino High Baseball Team Support Association and Alumni Club. Morioka, on the other hand, is a preferrable coach beacuse of his solid style. At the same time, Kurokan's decision on player positions has caused confusions to the team.\n\n(Source: Crunchyroll)",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 819,
+                    "type": "anime",
+                    "name": "Next Media Animation",
+                    "url": "https://myanimelist.net/anime/producer/819/Next_Media_Animation"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 30,
+                    "type": "anime",
+                    "name": "Sports",
+                    "url": "https://myanimelist.net/anime/genre/30/Sports"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 77,
+                    "type": "anime",
+                    "name": "Team Sports",
+                    "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 29605,
+            "url": "https://myanimelist.net/anime/29605/Double_Hard",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/11/71223.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/11/71223t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/11/71223l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/11/71223.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/11/71223t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/11/71223l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Double Hard"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30c0\u30d6\u30eb\u30fb\u30cf\u30fc\u30c9"
+                },
+                {
+                    "type": "English",
+                    "title": "Double Hard"
+                }
+            ],
+            "title": "Double Hard",
+            "title_english": "Double Hard",
+            "title_japanese": "\u30c0\u30d6\u30eb\u30fb\u30cf\u30fc\u30c9",
+            "title_synonyms": [],
+            "type": "ONA",
+            "source": "Manga",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2013-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2013
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2013 to ?"
+            },
+            "duration": "12 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 6.11,
+            "scored_by": 193,
+            "rank": 10423,
+            "popularity": 16588,
+            "members": 732,
+            "favorites": 1,
+            "synopsis": "Unbeatable Fist-Fighter Daiki Hayami and Professional Knuckler Jin Takayama ram into the incredible fight against Shibaura's craziest bike gang Midnight King and its head Shinjo Brothers!!\n\nUnfair and underhanded Midnight King takes one of Daiki's classmates Mai as its hostage. That makes Daiki and Jin's anger get to the high peak!!\n\n(Source: Crunchyroll)",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 819,
+                    "type": "anime",
+                    "name": "Next Media Animation",
+                    "url": "https://myanimelist.net/anime/producer/819/Next_Media_Animation"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "anime",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/anime/genre/1/Action"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 55,
+                    "type": "anime",
+                    "name": "Delinquents",
+                    "url": "https://myanimelist.net/anime/genre/55/Delinquents"
+                },
+                {
+                    "mal_id": 17,
+                    "type": "anime",
+                    "name": "Martial Arts",
+                    "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 29609,
+            "url": "https://myanimelist.net/anime/29609/Chinka",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/12/71467.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/12/71467t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/12/71467l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/12/71467.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/12/71467t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/12/71467l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": "https://www.youtube-nocookie.com/embed/VqjxmFZC-5Y?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Chinka"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u3061\u3093\u304b"
+                }
+            ],
+            "title": "Chinka",
+            "title_english": null,
+            "title_japanese": "\u3061\u3093\u304b",
+            "title_synonyms": [],
+            "type": "PV",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2010-03-31T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 31,
+                        "month": 3,
+                        "year": 2010
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Mar 31, 2010"
+            },
+            "duration": "27 sec",
+            "rating": "G - All Ages",
+            "score": 5.01,
+            "scored_by": 293,
+            "rank": null,
+            "popularity": 17557,
+            "members": 600,
+            "favorites": 0,
+            "synopsis": "A promotional video for Chinka, a proposed anime series from Danny Choo's Studio Mirai production studio. Announced in 2010, the series never came to fruition. Choo describes the story as follows:\n\nSince a few years ago, there have been many cases of arson.\nIn the rural town of Kiyotaki, situated in a beautiful mountain valley, the town folks are talking about the legendary arsonist, Akaneko [\u8d64\u732b].\n\nThe police have completely given up on Akaneko, who has slipped through their fingers every time.\n\nThe town's only hope is its one and only firefighting team\u2014the Mizuneko [\u6c34\u732b] Fire Brigade. But because of their destructive fire fighting ways, they too are feared by the town folk. Almost every night, Akaneko and the Mizuneko Fire Brigade fight fiercely, taking down many of the town's buildings in the process. The Mizuneko Fire Brigade have depleted most of the town's financial resources so the town ends up on the verge of bankruptcy. The town was in a critical state when Chinka, a girl with a superhuman ability to smell out fires appears. With her powers, the Mizuneko Fire Brigade close in on the true identity of Akaneko...\n\n(Source: ANN, paraphrased)",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 1248,
+                    "type": "anime",
+                    "name": "Mirai Fusion",
+                    "url": "https://myanimelist.net/anime/producer/1248/Mirai_Fusion"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "anime",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/anime/genre/1/Action"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 29611,
+            "url": "https://myanimelist.net/anime/29611/Pa-Pa-Pa_the_\u2605_Movie__Perman_-_Tako_de_Pon_Ashi_wa_Pon",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/9/71227.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/9/71227t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/9/71227l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/9/71227.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/9/71227t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/9/71227l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Pa-Pa-Pa the \u2605 Movie: Perman - Tako de Pon! Ashi wa Pon!"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "Pa-Pa-Pa \u30b6\u2605\u30e0\u30fc\u30d3\u30fc \u30d1\u30fc\u30de\u30f3 \u30bf\u30b3DE\u30dd\u30f3! \u30a2\u30b7HA\u30dd\u30f3!"
+                }
+            ],
+            "title": "Pa-Pa-Pa the \u2605 Movie: Perman - Tako de Pon! Ashi wa Pon!",
+            "title_english": null,
+            "title_japanese": "Pa-Pa-Pa \u30b6\u2605\u30e0\u30fc\u30d3\u30fc \u30d1\u30fc\u30de\u30f3 \u30bf\u30b3DE\u30dd\u30f3! \u30a2\u30b7HA\u30dd\u30f3!",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2004-03-06T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 6,
+                        "month": 3,
+                        "year": 2004
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Mar 6, 2004"
+            },
+            "duration": "32 min",
+            "rating": "PG - Children",
+            "score": 6.52,
+            "scored_by": 307,
+            "rank": 8078,
+            "popularity": 16160,
+            "members": 805,
+            "favorites": 0,
+            "synopsis": "Dr. Octo who researches octopodes decides to take over the world as he deems the eight legged creatures a more suitable master species than humans. To do this, he takes an idol singer Sumire Hoshino (aka Perman #3) hostage. Mitsuo Suwa (aka Perman #1) likes the idol dearly (as he doesn't know the real identity of his Perman partner) and becomes so angry that he transforms to go rescue her. But fighting a giant octopus is more challenging than it looks!\n\nScreened simultaneously with Doraemon Movie 25: Nobita no Wan Nyan Jikuudeni and Doraemon Anniversary 25.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 247,
+                    "type": "anime",
+                    "name": "Shin-Ei Animation",
+                    "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 31,
+                    "type": "anime",
+                    "name": "Super Power",
+                    "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 29613,
+            "url": "https://myanimelist.net/anime/29613/Perman__Birdman_ga_Yatte_Kita",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1515/134138.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1515/134138t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1515/134138l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1515/134138.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1515/134138t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1515/134138l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Perman: Birdman ga Yatte Kita!!"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30d1\u30fc\u30de\u30f3 \u30d0\u30fc\u30c9\u30de\u30f3\u304c\u3084\u3063\u3066\u6765\u305f!!"
+                }
+            ],
+            "title": "Perman: Birdman ga Yatte Kita!!",
+            "title_english": null,
+            "title_japanese": "\u30d1\u30fc\u30de\u30f3 \u30d0\u30fc\u30c9\u30de\u30f3\u304c\u3084\u3063\u3066\u6765\u305f!!",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1983-03-12T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 12,
+                        "month": 3,
+                        "year": 1983
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Mar 12, 1983"
+            },
+            "duration": "25 min",
+            "rating": "PG - Children",
+            "score": 5.92,
+            "scored_by": 318,
+            "rank": 11420,
+            "popularity": 16041,
+            "members": 830,
+            "favorites": 0,
+            "synopsis": "Screened as a triple feature with Doraemon: Nobita no Kaitei Kiganjou and Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki.\n\n(Source: AniDB)",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 247,
+                    "type": "anime",
+                    "name": "Shin-Ei Animation",
+                    "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 31,
+                    "type": "anime",
+                    "name": "Super Power",
+                    "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 29615,
+            "url": "https://myanimelist.net/anime/29615/Oh_Yoko",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1437/135389.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1437/135389t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1437/135389l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1437/135389.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1437/135389t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1437/135389l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Oh Yoko!"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Oh! Yoko!"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30aa\u30fc\u30fb\u30e8\u30fc\u30b3\uff01"
+                }
+            ],
+            "title": "Oh Yoko!",
+            "title_english": null,
+            "title_japanese": "\u30aa\u30fc\u30fb\u30e8\u30fc\u30b3\uff01",
+            "title_synonyms": [
+                "Oh! Yoko!"
+            ],
+            "type": "Music",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1973-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1973
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1973"
+            },
+            "duration": "4 min",
+            "rating": "R+ - Mild Nudity",
+            "score": 4.46,
+            "scored_by": 809,
+            "rank": null,
+            "popularity": 13968,
+            "members": 1405,
+            "favorites": 0,
+            "synopsis": "Backed by an ode John Lennon penned himself, the relationship between him and his wife, Yoko Ono, is beautifully depicted. Alongside their romance, '60s-appropriate psychedelic imagery and various allusions to Lennon's contributions to the Beatles are interlaced within.\n\n[Written by MAL Rewrite]",
+            "background": "Oh Yoko! shares its title with John Lennon's 1971 song \"Oh Yoko!\" It was hand-drawn and independently produced by Keiichi Tanaami. Tanaami's project was released two years after the song and is unaffiliated with Lennon, but it was nonetheless aired on the late-night television program 11PM.",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "anime",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/anime/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 19,
+                    "type": "anime",
+                    "name": "Music",
+                    "url": "https://myanimelist.net/anime/genre/19/Music"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 29617,
+            "url": "https://myanimelist.net/anime/29617/Good-by_Elvis_and_USA",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/6/71243.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/6/71243t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/6/71243l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/6/71243.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/6/71243t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/6/71243l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Good-by Elvis and USA"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Good-bye Elvis and USA"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "Good-by Elvis and USA"
+                },
+                {
+                    "type": "English",
+                    "title": "Good-bye Elvis and USA"
+                }
+            ],
+            "title": "Good-by Elvis and USA",
+            "title_english": "Good-bye Elvis and USA",
+            "title_japanese": "Good-by Elvis and USA",
+            "title_synonyms": [
+                "Good-bye Elvis and USA"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1971-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1971
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1971"
+            },
+            "duration": "7 min",
+            "rating": "R+ - Mild Nudity",
+            "score": 3.04,
+            "scored_by": 1158,
+            "rank": 14984,
+            "popularity": 12926,
+            "members": 1878,
+            "favorites": 1,
+            "synopsis": "A chaotic mixture of hand-drawn animation and magazine cut-outs appropriating American pop culture. With a soundtrack involving music and sounds played in reverse, iconography of war and pop culture are intercut or merged together with images of eroticism and consumption. The film screened at the 3rd Sogetsu Animation Festival 1971.\n\n(Source: Collaborative Cataloging Japan)",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 19,
+                    "type": "anime",
+                    "name": "Music",
+                    "url": "https://myanimelist.net/anime/genre/19/Music"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 29619,
+            "url": "https://myanimelist.net/anime/29619/Good-by_Marilyn",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1410/142103.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1410/142103t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1410/142103l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1410/142103.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1410/142103t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1410/142103l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Good-by Marilyn"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Good-bye Marilyn"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "Good-by Marilyn"
+                },
+                {
+                    "type": "English",
+                    "title": "Good-by Marilyn"
+                }
+            ],
+            "title": "Good-by Marilyn",
+            "title_english": "Good-by Marilyn",
+            "title_japanese": "Good-by Marilyn",
+            "title_synonyms": [
+                "Good-bye Marilyn"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1971-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1971
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1971"
+            },
+            "duration": "4 min",
+            "rating": "R+ - Mild Nudity",
+            "score": 3.66,
+            "scored_by": 749,
+            "rank": 14948,
+            "popularity": 14337,
+            "members": 1283,
+            "favorites": 0,
+            "synopsis": "Animated to the song \u2018Manatsu no dekigoto\u2019 (Midsummer Happening) by Miki Hirayama, the film is a playfully erotic animation with appropriated images that include Marilyn Monroe, Mickey Mouse, Superman, Roy Lichtenstein prints and the Glico chocolate icon of a man running through the finishing line of a race. Screened at the 3rd Animation Festival at Sogetsu Art Center in the same year that Tanaami participated in the exhibition \u2018Watashi no Marilyn Monroe\u2019 (My Marilyn Monroe) at Gallery D\u00e9cor, Tokyo.\n\n(Source: Collaborative Cataloging Japan)",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 19,
+                    "type": "anime",
+                    "name": "Music",
+                    "url": "https://myanimelist.net/anime/genre/19/Music"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 29623,
+            "url": "https://myanimelist.net/anime/29623/Jiaoao_de_Jiangjun",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1877/155688.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1877/155688t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1877/155688l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1877/155688.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1877/155688t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1877/155688l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Jiaoao de Jiangjun"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Conceited General"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Proud General"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u9a84\u50b2\u7684\u5c06\u519b"
+                }
+            ],
+            "title": "Jiaoao de Jiangjun",
+            "title_english": null,
+            "title_japanese": "\u9a84\u50b2\u7684\u5c06\u519b",
+            "title_synonyms": [
+                "The Conceited General",
+                "The Proud General"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1956-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1956
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1956"
+            },
+            "duration": "24 min",
+            "rating": "G - All Ages",
+            "score": 5.41,
+            "scored_by": 317,
+            "rank": 13513,
+            "popularity": 17036,
+            "members": 663,
+            "favorites": 0,
+            "synopsis": "After a victorious military campaign, a general returns home to glory and prosperity. The king rewards him and claims that all enemies will be intimidated by the general. From then on, the general no longer practices martial arts. He eats, drinks, lives the glamorous life, and doesn't bother anymore with sharpening his weapons. When the enemy one day returns, his own arrogance leads to his defeat and eventually to the downfall of the whole nation.\n\n(Source: Wikipedia)",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 8,
+                    "type": "anime",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/anime/genre/8/Drama"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 29629,
+            "url": "https://myanimelist.net/anime/29629/Coffee_Break",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/9/71261.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/9/71261t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/9/71261l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/9/71261.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/9/71261t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/9/71261l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Coffee Break"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30b3\u30fc\u30d2\u30fc\u30d6\u30ec\u30a4\u30af"
+                }
+            ],
+            "title": "Coffee Break",
+            "title_english": null,
+            "title_japanese": "\u30b3\u30fc\u30d2\u30fc\u30d6\u30ec\u30a4\u30af",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1977-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1977
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1977"
+            },
+            "duration": "3 min",
+            "rating": "G - All Ages",
+            "score": 4.96,
+            "scored_by": 793,
+            "rank": 14394,
+            "popularity": 13886,
+            "members": 1437,
+            "favorites": 1,
+            "synopsis": "People often consume caffeine to improve their mood, but for one salaryman, it is like a rocket ship blasting him off\u2014away from the monotony of his desk to a world full of color, inspiration, and life.\n\n[Written by MAL Rewrite]",
+            "background": "Coffee Break is the seventh out of 18 animations included in Taku Furukawa's Takun Films DVD, released in 1999. It was selected for the Second Ottawa International Animation Film Festival.",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 2214,
+                    "type": "anime",
+                    "name": "Takun Manga Box",
+                    "url": "https://myanimelist.net/anime/producer/2214/Takun_Manga_Box"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 29633,
+            "url": "https://myanimelist.net/anime/29633/Kiseki",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/3/71265.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/3/71265t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/3/71265l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/3/71265.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/3/71265t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/3/71265l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kiseki"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u8ecc\u8de1"
+                },
+                {
+                    "type": "English",
+                    "title": "Locus"
+                }
+            ],
+            "title": "Kiseki",
+            "title_english": "Locus",
+            "title_japanese": "\u8ecc\u8de1",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1963-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1963
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1963"
+            },
+            "duration": "3 min",
+            "rating": "G - All Ages",
+            "score": 4.61,
+            "scored_by": 380,
+            "rank": 14723,
+            "popularity": 16281,
+            "members": 779,
+            "favorites": 0,
+            "synopsis": "Experimental animation by Kuri Youji.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 19,
+                    "type": "anime",
+                    "name": "Music",
+                    "url": "https://myanimelist.net/anime/genre/19/Music"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 29635,
+            "url": "https://myanimelist.net/anime/29635/Otoko_to_Onna_to_Inu",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/12/71267.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/12/71267t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/12/71267l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/12/71267.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/12/71267t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/12/71267l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Otoko to Onna to Inu"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u7537\u3068\u5973\u3068\u72ac"
+                },
+                {
+                    "type": "English",
+                    "title": "Man and Woman and Dog"
+                }
+            ],
+            "title": "Otoko to Onna to Inu",
+            "title_english": "Man and Woman and Dog",
+            "title_japanese": "\u7537\u3068\u5973\u3068\u72ac",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1964-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1964
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1964"
+            },
+            "duration": "3 min",
+            "rating": "G - All Ages",
+            "score": 4.52,
+            "scored_by": 379,
+            "rank": 14780,
+            "popularity": 16418,
+            "members": 758,
+            "favorites": 0,
+            "synopsis": "Short animated film by Kuri Youji.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "anime",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/anime/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 29637,
+            "url": "https://myanimelist.net/anime/29637/Samurai",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/3/71269.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/3/71269t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/3/71269l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/3/71269.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/3/71269t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/3/71269l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Samurai"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u3055\u3080\u3089\u3044"
+                }
+            ],
+            "title": "Samurai",
+            "title_english": null,
+            "title_japanese": "\u3055\u3080\u3089\u3044",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1965-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1965
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1965"
+            },
+            "duration": "7 min",
+            "rating": "G - All Ages",
+            "score": 4.59,
+            "scored_by": 339,
+            "rank": 14743,
+            "popularity": 16706,
+            "members": 713,
+            "favorites": 0,
+            "synopsis": "A short film by Kuri Youji.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 377,
+                    "type": "anime",
+                    "name": "Kuri Jikken Manga Koubou",
+                    "url": "https://myanimelist.net/anime/producer/377/Kuri_Jikken_Manga_Koubou"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 8,
+                    "type": "anime",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/anime/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "anime",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/anime/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 29643,
+            "url": "https://myanimelist.net/anime/29643/6HP_Six_Hearts_Princess",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1905/145992.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1905/145992t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1905/145992l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1905/145992.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1905/145992t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1905/145992l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": "https://www.youtube-nocookie.com/embed/Fcn0tj_6sbI?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "6HP (Six Hearts Princess)"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "6\u2665Princess"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "6 Princess"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "6HP(\u30b7\u30c3\u30af\u30b9\u30cf\u30fc\u30c8\u30d7\u30ea\u30f3\u30bb\u30b9)"
+                }
+            ],
+            "title": "6HP (Six Hearts Princess)",
+            "title_english": null,
+            "title_japanese": "6HP(\u30b7\u30c3\u30af\u30b9\u30cf\u30fc\u30c8\u30d7\u30ea\u30f3\u30bb\u30b9)",
+            "title_synonyms": [
+                "6\u2665Princess",
+                "6 Princess"
+            ],
+            "type": "TV Special",
+            "source": "Original",
+            "episodes": null,
+            "status": "Currently Airing",
+            "airing": true,
+            "aired": {
+                "from": "2016-12-30T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 30,
+                        "month": 12,
+                        "year": 2016
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Dec 30, 2016 to ?"
+            },
+            "duration": "24 min",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 6.16,
+            "scored_by": 698,
+            "rank": 10134,
+            "popularity": 8197,
+            "members": 7450,
+            "favorites": 12,
+            "synopsis": null,
+            "background": "The first episode of the anime was unfinished at airing time. It aired within an hour-long block, with the first 22 minutes being animation and the rest of the block consisting of documentary of the anime's creation and an apology from director Takashi Murakami. Murakami currently plans to release two more episodes and a finished first episode.",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 931,
+                    "type": "anime",
+                    "name": "Poncotan",
+                    "url": "https://myanimelist.net/anime/producer/931/Poncotan"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 66,
+                    "type": "anime",
+                    "name": "Mahou Shoujo",
+                    "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 29645,
+            "url": "https://myanimelist.net/anime/29645/Jikan",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/2/71299.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/2/71299t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/2/71299l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/2/71299.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/2/71299t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/2/71299l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Jikan"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u6642\u9593"
+                },
+                {
+                    "type": "English",
+                    "title": "Time"
+                }
+            ],
+            "title": "Jikan",
+            "title_english": "Time",
+            "title_japanese": "\u6642\u9593",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1963-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1963
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1963"
+            },
+            "duration": "7 min",
+            "rating": "G - All Ages",
+            "score": 4.75,
+            "scored_by": 266,
+            "rank": 14607,
+            "popularity": 17558,
+            "members": 600,
+            "favorites": 1,
+            "synopsis": "Experimental animation by Manabe Hiroshi, member of the Animation Sannin no Kai pioneer group of independent animation.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 29647,
+            "url": "https://myanimelist.net/anime/29647/Sensuikan_Cassiopeia",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1531/154243.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1531/154243t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1531/154243l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1531/154243.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1531/154243t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1531/154243l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Sensuikan Cassiopeia"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u6f5c\u6c34\u8266\u30ab\u30b7\u30aa\u30da\u30a2"
+                },
+                {
+                    "type": "English",
+                    "title": "Submarine Cassiopeia"
+                }
+            ],
+            "title": "Sensuikan Cassiopeia",
+            "title_english": "Submarine Cassiopeia",
+            "title_japanese": "\u6f5c\u6c34\u8266\u30ab\u30b7\u30aa\u30da\u30a2",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1964-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1964
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1964"
+            },
+            "duration": "5 min",
+            "rating": "G - All Ages",
+            "score": 4.69,
+            "scored_by": 215,
+            "rank": 14666,
+            "popularity": 18462,
+            "members": 513,
+            "favorites": 0,
+            "synopsis": "Experimental animation by Manabe Hiroshi, member of the Animation Sannin no Kai pioneer group of independent animation.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 29649,
+            "url": "https://myanimelist.net/anime/29649/Tsuiseki",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/5/71303.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/5/71303t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/5/71303l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/5/71303.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/5/71303t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/5/71303l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Tsuiseki"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u8ffd\u8de1"
+                },
+                {
+                    "type": "English",
+                    "title": "Chase"
+                }
+            ],
+            "title": "Tsuiseki",
+            "title_english": "Chase",
+            "title_japanese": "\u8ffd\u8de1",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1966-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1966
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1966"
+            },
+            "duration": "3 min",
+            "rating": "G - All Ages",
+            "score": 4.8,
+            "scored_by": 259,
+            "rank": 14565,
+            "popularity": 18040,
+            "members": 553,
+            "favorites": 0,
+            "synopsis": "Experimental animation by Manabe Hiroshi, member of the Animation Sannin no Kai pioneer group of independent animation.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 29651,
+            "url": "https://myanimelist.net/anime/29651/Ikedaya_Soudou",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/7/71305.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/7/71305t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/7/71305l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/7/71305.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/7/71305t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/7/71305l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Ikedaya Soudou"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u6c60\u7530\u5c4b\u9a12\u52d5"
+                },
+                {
+                    "type": "English",
+                    "title": "Commotion at Ikedaya"
+                }
+            ],
+            "title": "Ikedaya Soudou",
+            "title_english": "Commotion at Ikedaya",
+            "title_japanese": "\u6c60\u7530\u5c4b\u9a12\u52d5",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1961-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1961
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1961"
+            },
+            "duration": "7 min",
+            "rating": "G - All Ages",
+            "score": 4.95,
+            "scored_by": 228,
+            "rank": 14407,
+            "popularity": 18591,
+            "members": 501,
+            "favorites": 0,
+            "synopsis": "Independent film by Yanagihara Ryouhei, member of the Animation Sannin no Kai pioneer group of independent animation. It tells the story of the Ikedaya raid by the Shinsengumi from the point of view of the neighbors of the Ikedaya.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 8,
+                    "type": "anime",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/anime/genre/8/Drama"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 13,
+                    "type": "anime",
+                    "name": "Historical",
+                    "url": "https://myanimelist.net/anime/genre/13/Historical"
+                },
+                {
+                    "mal_id": 21,
+                    "type": "anime",
+                    "name": "Samurai",
+                    "url": "https://myanimelist.net/anime/genre/21/Samurai"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 29653,
+            "url": "https://myanimelist.net/anime/29653/Futari_Zamurai_Homare_no_Kawakiri",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/6/71307.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/6/71307t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/6/71307l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/6/71307.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/6/71307t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/6/71307l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Futari Zamurai Homare no Kawakiri"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Ryounin Samurai Homare Kawaki"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u4e21\u4eba\u4f8d\u8a89\u76ae\u5207"
+                },
+                {
+                    "type": "English",
+                    "title": "Two Samurai"
+                }
+            ],
+            "title": "Futari Zamurai Homare no Kawakiri",
+            "title_english": "Two Samurai",
+            "title_japanese": "\u4e21\u4eba\u4f8d\u8a89\u76ae\u5207",
+            "title_synonyms": [
+                "Ryounin Samurai Homare Kawaki"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1963-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1963
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1963"
+            },
+            "duration": "6 min",
+            "rating": "G - All Ages",
+            "score": 4.88,
+            "scored_by": 242,
+            "rank": 14471,
+            "popularity": 18245,
+            "members": 532,
+            "favorites": 0,
+            "synopsis": "Independent animation by Yanagihara Ryouhei, member of the Animation Sannin no Kai pioneer group of independent animation.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 8,
+                    "type": "anime",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/anime/genre/8/Drama"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 13,
+                    "type": "anime",
+                    "name": "Historical",
+                    "url": "https://myanimelist.net/anime/genre/13/Historical"
+                },
+                {
+                    "mal_id": 21,
+                    "type": "anime",
+                    "name": "Samurai",
+                    "url": "https://myanimelist.net/anime/genre/21/Samurai"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 29655,
+            "url": "https://myanimelist.net/anime/29655/Chanda_Gou",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/10/71309.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/10/71309t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/10/71309l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/10/71309.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/10/71309t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/10/71309l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Chanda Gou"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30c1\u30e3\u30f3\u30c0\u53f7"
+                },
+                {
+                    "type": "English",
+                    "title": "M.S. Chanda"
+                }
+            ],
+            "title": "Chanda Gou",
+            "title_english": "M.S. Chanda",
+            "title_japanese": "\u30c1\u30e3\u30f3\u30c0\u53f7",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1964-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1964
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1964"
+            },
+            "duration": "7 min",
+            "rating": "G - All Ages",
+            "score": 5.15,
+            "scored_by": 217,
+            "rank": 14106,
+            "popularity": 18612,
+            "members": 498,
+            "favorites": 0,
+            "synopsis": "Independent animation by Yanagihara Ryouhei, member of the Animation Sannin no Kai pioneer group of independent animation.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 36,
+                    "type": "anime",
+                    "name": "Slice of Life",
+                    "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 29657,
+            "url": "https://myanimelist.net/anime/29657/Stone",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/12/71311.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/12/71311t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/12/71311l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/12/71311.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/12/71311t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/12/71311l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Stone"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "Stone"
+                }
+            ],
+            "title": "Stone",
+            "title_english": null,
+            "title_japanese": "Stone",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1975-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1975
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1975"
+            },
+            "duration": "7 min",
+            "rating": "G - All Ages",
+            "score": 4.71,
+            "scored_by": 376,
+            "rank": 14649,
+            "popularity": 15442,
+            "members": 971,
+            "favorites": 0,
+            "synopsis": "Independent, stop motion animation by Aihara Nobuhiro, combining drawings and real landscapes.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 29661,
+            "url": "https://myanimelist.net/anime/29661/Karma",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/8/71315.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/8/71315t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/8/71315l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/8/71315.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/8/71315t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/8/71315l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Karma"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30ab\u30eb\u30de"
+                }
+            ],
+            "title": "Karma",
+            "title_english": null,
+            "title_japanese": "\u30ab\u30eb\u30de",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1977-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1977
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1977"
+            },
+            "duration": "2 min",
+            "rating": "G - All Ages",
+            "score": 4.84,
+            "scored_by": 383,
+            "rank": 14519,
+            "popularity": 16276,
+            "members": 779,
+            "favorites": 0,
+            "synopsis": "\"In his early experimental short Karma (\u30ab\u30eb\u30de, 1977), Aihara uses water as his central motif.  The film is hand drawn and appears to be shot on 16mm using a blue filter.  At first we can only see tiny specks on the screen, coming and going like snow flurries.  The specks gradually grow larger and take the shape of bubbles, then even larger into rivulets of water on a transparent surface.\"\n\n(Source: Nishikata Film Review)",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 29665,
+            "url": "https://myanimelist.net/anime/29665/Genei_Toshi",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1587/106836.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1587/106836t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1587/106836l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1587/106836.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1587/106836t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1587/106836l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Genei Toshi"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5e7b\u5f71\u90fd\u5e02"
+                },
+                {
+                    "type": "English",
+                    "title": "Illusion City"
+                }
+            ],
+            "title": "Genei Toshi",
+            "title_english": "Illusion City",
+            "title_japanese": "\u5e7b\u5f71\u90fd\u5e02",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1967-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1967
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1967"
+            },
+            "duration": "4 min",
+            "rating": "G - All Ages",
+            "score": 4.85,
+            "scored_by": 240,
+            "rank": 14505,
+            "popularity": 18158,
+            "members": 541,
+            "favorites": 0,
+            "synopsis": "Taking inspiration from reticulated architecture of a real modern skyscraper - characterized by the deafening noise of city traffic - Shimamura succeeds in rendering the idea of urban alienation in the abstract. He goes from optical art to spatial concepts similar to the Escher scales, with a sound track of electronic music (among the everyday sounds is a working photocopier).\n\n(Source: Animation - A World History)",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        }
+    ]
+}
