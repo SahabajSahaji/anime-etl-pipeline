@@ -1,0 +1,2976 @@
+{
+    "pagination": {
+        "last_visible_page": 1207,
+        "has_next_page": true,
+        "current_page": 832,
+        "items": {
+            "count": 25,
+            "total": 30159,
+            "per_page": 25
+        }
+    },
+    "data": [
+        {
+            "mal_id": 48318,
+            "url": "https://myanimelist.net/anime/48318/Iljimae",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1875/114510.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1875/114510t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1875/114510l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1875/114510.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1875/114510t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1875/114510l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Iljimae"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\uc77c\uc9c0\ub9e4"
+                }
+            ],
+            "title": "Iljimae",
+            "title_english": null,
+            "title_japanese": "\uc77c\uc9c0\ub9e4",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Other",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2009-05-05T00:00:00+00:00",
+                "to": "2009-11-02T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 5,
+                        "month": 5,
+                        "year": 2009
+                    },
+                    "to": {
+                        "day": 2,
+                        "month": 11,
+                        "year": 2009
+                    }
+                },
+                "string": "May 5, 2009 to Nov 2, 2009"
+            },
+            "duration": "Unknown",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": null,
+            "scored_by": null,
+            "rank": 17404,
+            "popularity": 21430,
+            "members": 303,
+            "favorites": 2,
+            "synopsis": null,
+            "background": "",
+            "season": "spring",
+            "year": 2009,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "anime",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/anime/genre/1/Action"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "anime",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/anime/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "anime",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/anime/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 13,
+                    "type": "anime",
+                    "name": "Historical",
+                    "url": "https://myanimelist.net/anime/genre/13/Historical"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 48320,
+            "url": "https://myanimelist.net/anime/48320/Jeonsa_Ryan",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1864/114505.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1864/114505t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1864/114505l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1864/114505.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1864/114505t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1864/114505l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Jeonsa Ryan"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Jeonsa Laian"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\uc804\uc0ac \ub77c\uc774\uc548"
+                },
+                {
+                    "type": "English",
+                    "title": "The Last Warrior Ryan"
+                }
+            ],
+            "title": "Jeonsa Ryan",
+            "title_english": "The Last Warrior Ryan",
+            "title_japanese": "\uc804\uc0ac \ub77c\uc774\uc548",
+            "title_synonyms": [
+                "Jeonsa Laian"
+            ],
+            "type": "Movie",
+            "source": "Game",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1997-07-19T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 19,
+                        "month": 7,
+                        "year": 1997
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Jul 19, 1997"
+            },
+            "duration": "1 hr 20 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 17468,
+            "popularity": 23547,
+            "members": 197,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48321,
+            "url": "https://myanimelist.net/anime/48321/Jeong-geul-eseo_Sal-anamgi__Maru_Adventure",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1419/115255.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1419/115255t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1419/115255l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1419/115255.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1419/115255t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1419/115255l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Jeong-geul-eseo Sal-anamgi: Maru Adventure"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Jeong-geul-eseo Sal-anamgi Maluui Eodeubencheo"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Jungle Survival Maru's Adventure"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\uc815\uae00\uc5d0\uc11c \uc0b4\uc544\ub0a8\uae30 \ub9c8\ub8e8\uc758 \uc5b4\ub4dc\ubca4\ucc98"
+                },
+                {
+                    "type": "English",
+                    "title": "Jungle Survival"
+                }
+            ],
+            "title": "Jeong-geul-eseo Sal-anamgi: Maru Adventure",
+            "title_english": "Jungle Survival",
+            "title_japanese": "\uc815\uae00\uc5d0\uc11c \uc0b4\uc544\ub0a8\uae30 \ub9c8\ub8e8\uc758 \uc5b4\ub4dc\ubca4\ucc98",
+            "title_synonyms": [
+                "Jeong-geul-eseo Sal-anamgi Maluui Eodeubencheo",
+                "Jungle Survival Maru's Adventure"
+            ],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 52,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-08-31T00:00:00+00:00",
+                "to": "2016-08-29T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 31,
+                        "month": 8,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": 29,
+                        "month": 8,
+                        "year": 2016
+                    }
+                },
+                "string": "Aug 31, 2015 to Aug 29, 2016"
+            },
+            "duration": "12 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 17466,
+            "popularity": 23131,
+            "members": 213,
+            "favorites": 2,
+            "synopsis": "Maru and friends' exciting adventure begin when they were lost in Borneo Jungle. As they explore wild life of Jungle, they happen to get to know Shalamar, a native jungle warrior and Kai, a mysterious boy. All together they travel into the deeper jungle looking for Mr.Rhapa. They never expected to see unknown creatures called Igras, mutated animals due to unbalance of Anima energy in jungle. Unpredictable...jungle adventure begins with Maru, Ara, Gabi, Shalamar and Kai... Wild life of jungle and mutant creatures Igras makes the journey unique and interesting ever.\n\n(Source: WelCon)",
+            "background": "",
+            "season": "summer",
+            "year": 2015,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48322,
+            "url": "https://myanimelist.net/anime/48322/Jouiseon-in",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1085/115254.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1085/115254t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1085/115254l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1085/115254.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1085/115254t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1085/115254l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Jouiseon-in"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\uc870\uc758\uc120\uc778"
+                },
+                {
+                    "type": "English",
+                    "title": "Warriors in Black"
+                }
+            ],
+            "title": "Jouiseon-in",
+            "title_english": "Warriors in Black",
+            "title_japanese": "\uc870\uc758\uc120\uc778",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2008-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2008
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2008"
+            },
+            "duration": "13 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 17660,
+            "popularity": 25696,
+            "members": 136,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "anime",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/anime/genre/1/Action"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48323,
+            "url": "https://myanimelist.net/anime/48323/Zombie_Dumb",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1188/114504.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1188/114504t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1188/114504l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1188/114504.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1188/114504t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1188/114504l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Zombie Dumb"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Jombideom"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\uc880\ube44\ub364"
+                },
+                {
+                    "type": "English",
+                    "title": "ZOMBIEDUMB"
+                }
+            ],
+            "title": "Zombie Dumb",
+            "title_english": "ZOMBIEDUMB",
+            "title_japanese": "\uc880\ube44\ub364",
+            "title_synonyms": [
+                "Jombideom"
+            ],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 15,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2016-04-16T00:00:00+00:00",
+                "to": "2016-07-23T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 16,
+                        "month": 4,
+                        "year": 2016
+                    },
+                    "to": {
+                        "day": 23,
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "string": "Apr 16, 2016 to Jul 23, 2016"
+            },
+            "duration": "15 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 22560,
+            "popularity": 22974,
+            "members": 221,
+            "favorites": 2,
+            "synopsis": null,
+            "background": "",
+            "season": "spring",
+            "year": 2016,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 2783,
+                    "type": "anime",
+                    "name": "ANYZAC",
+                    "url": "https://myanimelist.net/anime/producer/2783/ANYZAC"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "anime",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48324,
+            "url": "https://myanimelist.net/anime/48324/Hanjawang_Jumong",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1270/114503.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1270/114503t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1270/114503l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1270/114503.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1270/114503t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1270/114503l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Hanjawang Jumong"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ud55c\uc790\uc655 \uc8fc\ubabd"
+                },
+                {
+                    "type": "English",
+                    "title": "Adventure of Jumong"
+                }
+            ],
+            "title": "Hanjawang Jumong",
+            "title_english": "Adventure of Jumong",
+            "title_japanese": "\ud55c\uc790\uc655 \uc8fc\ubabd",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Unknown",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2007-01-01T00:00:00+00:00",
+                "to": "2008-01-01T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2007
+                    },
+                    "to": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2008
+                    }
+                },
+                "string": "2007 to 2008"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 16978,
+            "popularity": 25298,
+            "members": 145,
+            "favorites": 1,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48325,
+            "url": "https://myanimelist.net/anime/48325/G_Fighters",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1848/115253.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1848/115253t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1848/115253l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1848/115253.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1848/115253t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1848/115253l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "G Fighters"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Jipaiteoseu"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Wudi Jiguang Xia"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "\u65e0\u654c\u6781\u5149\u4fa0"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Invincible Aurora Man"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\uc9c0\ud30c\uc774\ud130\uc2a4"
+                }
+            ],
+            "title": "G Fighters",
+            "title_english": null,
+            "title_japanese": "\uc9c0\ud30c\uc774\ud130\uc2a4",
+            "title_synonyms": [
+                "Jipaiteoseu",
+                "Wudi Jiguang Xia",
+                "\u65e0\u654c\u6781\u5149\u4fa0",
+                "Invincible Aurora Man"
+            ],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2014-09-01T00:00:00+00:00",
+                "to": "2015-02-28T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 9,
+                        "year": 2014
+                    },
+                    "to": {
+                        "day": 28,
+                        "month": 2,
+                        "year": 2015
+                    }
+                },
+                "string": "Sep 1, 2014 to Feb 28, 2015"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 16642,
+            "popularity": 23128,
+            "members": 213,
+            "favorites": 0,
+            "synopsis": "In the peaceful city of Metroplis, a high-rise building, the WP Center freezes and explodes. A red fog permeates the city and space vilians invade to plunge the city into chaos.\nThe main character Lynn, becomes a superhero after finding a strange cat, and combines forces with out super powered kids to take down the evil space invaders. \n\n(Source: Amazon Prime Video)",
+            "background": "",
+            "season": "fall",
+            "year": 2014,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "anime",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/anime/genre/1/Action"
+                },
+                {
+                    "mal_id": 24,
+                    "type": "anime",
+                    "name": "Sci-Fi",
+                    "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48326,
+            "url": "https://myanimelist.net/anime/48326/Geo_Mecha__Beast_Guardian",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1905/115251.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1905/115251t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1905/115251l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1905/115251.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1905/115251t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1905/115251l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Geo Mecha: Beast Guardian"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Jiomeka Biseuteugadieon"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\uc9c0\uc624\uba54\uce74 \ube44\uc2a4\ud2b8\uac00\ub514\uc5b8"
+                }
+            ],
+            "title": "Geo Mecha: Beast Guardian",
+            "title_english": null,
+            "title_japanese": "\uc9c0\uc624\uba54\uce74 \ube44\uc2a4\ud2b8\uac00\ub514\uc5b8",
+            "title_synonyms": [
+                "Jiomeka Biseuteugadieon"
+            ],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2017-02-27T00:00:00+00:00",
+                "to": "2017-08-07T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 27,
+                        "month": 2,
+                        "year": 2017
+                    },
+                    "to": {
+                        "day": 7,
+                        "month": 8,
+                        "year": 2017
+                    }
+                },
+                "string": "Feb 27, 2017 to Aug 7, 2017"
+            },
+            "duration": "11 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 16730,
+            "popularity": 22719,
+            "members": 232,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": "winter",
+            "year": 2017,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 24,
+                    "type": "anime",
+                    "name": "Sci-Fi",
+                    "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 18,
+                    "type": "anime",
+                    "name": "Mecha",
+                    "url": "https://myanimelist.net/anime/genre/18/Mecha"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48327,
+            "url": "https://myanimelist.net/anime/48327/Cholong-iui_Yesnal-Yeohaeng",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1571/115250.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1571/115250t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1571/115250l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1571/115250.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1571/115250t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1571/115250l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Cholong-iui Yesnal-Yeohaeng"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ucd08\ub871\uc774\uc758 \uc61b\ub0a0\uc5ec\ud589"
+                }
+            ],
+            "title": "Cholong-iui Yesnal-Yeohaeng",
+            "title_english": null,
+            "title_japanese": "\ucd08\ub871\uc774\uc758 \uc61b\ub0a0\uc5ec\ud589",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 52,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1993-10-22T00:00:00+00:00",
+                "to": "1994-10-21T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 22,
+                        "month": 10,
+                        "year": 1993
+                    },
+                    "to": {
+                        "day": 21,
+                        "month": 10,
+                        "year": 1994
+                    }
+                },
+                "string": "Oct 22, 1993 to Oct 21, 1994"
+            },
+            "duration": "15 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 15898,
+            "popularity": 23424,
+            "members": 201,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": "fall",
+            "year": 1993,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 13,
+                    "type": "anime",
+                    "name": "Historical",
+                    "url": "https://myanimelist.net/anime/genre/13/Historical"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48328,
+            "url": "https://myanimelist.net/anime/48328/Choum_and_Pulip_School",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1073/114501.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1073/114501t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1073/114501l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1073/114501.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1073/114501t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1073/114501l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Choum and Pulip School"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ucd08\uc74c\uc774\uc758 \ud480\uc78e\ud559\uad50"
+                },
+                {
+                    "type": "English",
+                    "title": "Choum and Pulip School"
+                }
+            ],
+            "title": "Choum and Pulip School",
+            "title_english": "Choum and Pulip School",
+            "title_japanese": "\ucd08\uc74c\uc774\uc758 \ud480\uc78e\ud559\uad50",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 6,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2010-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2010
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2010"
+            },
+            "duration": "11 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 15918,
+            "popularity": 25826,
+            "members": 133,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 23,
+                    "type": "anime",
+                    "name": "School",
+                    "url": "https://myanimelist.net/anime/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48331,
+            "url": "https://myanimelist.net/anime/48331/Chuldong_Robot_V",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1542/114499.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1542/114499t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1542/114499l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1542/114499.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1542/114499t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1542/114499l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Chuldong! Robot V"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Chuldong! Lobos V"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Go! Robot V"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ucd9c\ub3d9! \ub85c\ubd07 V"
+                }
+            ],
+            "title": "Chuldong! Robot V",
+            "title_english": null,
+            "title_japanese": "\ucd9c\ub3d9! \ub85c\ubd07 V",
+            "title_synonyms": [
+                "Chuldong! Lobos V",
+                "Go! Robot V"
+            ],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 13,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2004-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2004
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2004"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 15939,
+            "popularity": 24873,
+            "members": 155,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 24,
+                    "type": "anime",
+                    "name": "Sci-Fi",
+                    "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 18,
+                    "type": "anime",
+                    "name": "Mecha",
+                    "url": "https://myanimelist.net/anime/genre/18/Mecha"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48332,
+            "url": "https://myanimelist.net/anime/48332/Chuldong_Animal_Rescue",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1313/114497.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1313/114497t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1313/114497l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1313/114497.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1313/114497t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1313/114497l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Chuldong! Animal Rescue"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Chuldong! Aenimeol Leseukyu"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Go! Animal Rescue"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ucd9c\ub3d9! \uc560\ub2c8\uba40 \ub808\uc2a4\ud050"
+                },
+                {
+                    "type": "English",
+                    "title": "Animal Rescue"
+                }
+            ],
+            "title": "Chuldong! Animal Rescue",
+            "title_english": "Animal Rescue",
+            "title_japanese": "\ucd9c\ub3d9! \uc560\ub2c8\uba40 \ub808\uc2a4\ud050",
+            "title_synonyms": [
+                "Chuldong! Aenimeol Leseukyu",
+                "Go! Animal Rescue"
+            ],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 52,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2019-02-16T00:00:00+00:00",
+                "to": "2020-04-23T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 16,
+                        "month": 2,
+                        "year": 2019
+                    },
+                    "to": {
+                        "day": 23,
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "string": "Feb 16, 2019 to Apr 23, 2020"
+            },
+            "duration": "11 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 15938,
+            "popularity": 22549,
+            "members": 240,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": "winter",
+            "year": 2019,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                },
+                {
+                    "mal_id": 24,
+                    "type": "anime",
+                    "name": "Sci-Fi",
+                    "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48333,
+            "url": "https://myanimelist.net/anime/48333/Steel_Fire_Brigade_Fire_Robo",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1018/114496.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1018/114496t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1018/114496l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1018/114496.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1018/114496t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1018/114496l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Steel Fire Brigade Fire Robo"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Huoxian Zhan Jing"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "\u706b\u7ebf\u6218\u8b66"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\uac15\ucca0\uc18c\ubc29\ub300 \ud30c\uc774\uc5b4\ub85c\ubcf4"
+                },
+                {
+                    "type": "English",
+                    "title": "Steel Fire Brigade Fire Robo"
+                }
+            ],
+            "title": "Steel Fire Brigade Fire Robo",
+            "title_english": "Steel Fire Brigade Fire Robo",
+            "title_japanese": "\uac15\ucca0\uc18c\ubc29\ub300 \ud30c\uc774\uc5b4\ub85c\ubcf4",
+            "title_synonyms": [
+                "Huoxian Zhan Jing",
+                "\u706b\u7ebf\u6218\u8b66"
+            ],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2016-08-29T00:00:00+00:00",
+                "to": "2017-02-20T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 29,
+                        "month": 8,
+                        "year": 2016
+                    },
+                    "to": {
+                        "day": 20,
+                        "month": 2,
+                        "year": 2017
+                    }
+                },
+                "string": "Aug 29, 2016 to Feb 20, 2017"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 20736,
+            "popularity": 23409,
+            "members": 202,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": "summer",
+            "year": 2016,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 2954,
+                    "type": "anime",
+                    "name": "Studio Button",
+                    "url": "https://myanimelist.net/anime/producer/2954/Studio_Button"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 24,
+                    "type": "anime",
+                    "name": "Sci-Fi",
+                    "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 18,
+                    "type": "anime",
+                    "name": "Mecha",
+                    "url": "https://myanimelist.net/anime/genre/18/Mecha"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48334,
+            "url": "https://myanimelist.net/anime/48334/Chilingchiling_Secret_Jouju",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1772/142549.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1772/142549t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1772/142549l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1772/142549.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1772/142549t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1772/142549l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Chilingchiling Secret Jouju"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Chilingchiling Sikeulis Jyujyu"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\uce58\ub9c1\uce58\ub9c1 \uc2dc\ud06c\ub9bf \uc96c\uc96c"
+                },
+                {
+                    "type": "English",
+                    "title": "Secret Jouju"
+                }
+            ],
+            "title": "Chilingchiling Secret Jouju",
+            "title_english": "Secret Jouju",
+            "title_japanese": "\uce58\ub9c1\uce58\ub9c1 \uc2dc\ud06c\ub9bf \uc96c\uc96c",
+            "title_synonyms": [
+                "Chilingchiling Sikeulis Jyujyu"
+            ],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 182,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2014-01-01T00:00:00+00:00",
+                "to": "2018-01-01T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2014
+                    },
+                    "to": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "string": "2014 to 2018"
+            },
+            "duration": "6 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 15880,
+            "popularity": 23759,
+            "members": 190,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48335,
+            "url": "https://myanimelist.net/anime/48335/Canimals",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1533/114467.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1533/114467t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1533/114467l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1533/114467.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1533/114467t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1533/114467l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Canimals"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Kaenimeol"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\uce90\ub2c8\uba40"
+                },
+                {
+                    "type": "English",
+                    "title": "Canimals"
+                }
+            ],
+            "title": "Canimals",
+            "title_english": "Canimals",
+            "title_japanese": "\uce90\ub2c8\uba40",
+            "title_synonyms": [
+                "Kaenimeol"
+            ],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2011-03-02T00:00:00+00:00",
+                "to": "2011-08-25T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 2,
+                        "month": 3,
+                        "year": 2011
+                    },
+                    "to": {
+                        "day": 25,
+                        "month": 8,
+                        "year": 2011
+                    }
+                },
+                "string": "Mar 2, 2011 to Aug 25, 2011"
+            },
+            "duration": "7 min per ep",
+            "rating": "PG - Children",
+            "score": 6.35,
+            "scored_by": 110,
+            "rank": 9065,
+            "popularity": 20653,
+            "members": 347,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": "spring",
+            "year": 2011,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48337,
+            "url": "https://myanimelist.net/anime/48337/Chueog-ui_Geomjeong_Gomusin",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1933/114492.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1933/114492t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1933/114492l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1933/114492.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1933/114492t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1933/114492l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Chueog-ui Geomjeong Gomusin"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Chueog-ui Geomjeong-gomusin"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ucd94\uc5b5\uc758 \uac80\uc815\uace0\ubb34\uc2e0"
+                },
+                {
+                    "type": "English",
+                    "title": "The Precious Memory of Gogo Brothers"
+                }
+            ],
+            "title": "Chueog-ui Geomjeong Gomusin",
+            "title_english": "The Precious Memory of Gogo Brothers",
+            "title_japanese": "\ucd94\uc5b5\uc758 \uac80\uc815\uace0\ubb34\uc2e0",
+            "title_synonyms": [
+                "Chueog-ui Geomjeong-gomusin"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2020-11-19T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 19,
+                        "month": 11,
+                        "year": 2020
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Nov 19, 2020"
+            },
+            "duration": "1 hr 20 min",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 15933,
+            "popularity": 23876,
+            "members": 185,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48338,
+            "url": "https://myanimelist.net/anime/48338/Kungya_Kungya",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1633/114464.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1633/114464t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1633/114464l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1633/114464.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1633/114464t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1633/114464l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kungya Kungya"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Kung-ya Kung-ya"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Koongya Koongya"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ucff5\uc57c\ucff5\uc57c"
+                }
+            ],
+            "title": "Kungya Kungya",
+            "title_english": null,
+            "title_japanese": "\ucff5\uc57c\ucff5\uc57c",
+            "title_synonyms": [
+                "Kung-ya Kung-ya",
+                "Koongya Koongya"
+            ],
+            "type": "TV",
+            "source": "Game",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2006-11-09T00:00:00+00:00",
+                "to": "2007-05-10T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 9,
+                        "month": 11,
+                        "year": 2006
+                    },
+                    "to": {
+                        "day": 10,
+                        "month": 5,
+                        "year": 2007
+                    }
+                },
+                "string": "Nov 9, 2006 to May 10, 2007"
+            },
+            "duration": "25 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 18199,
+            "popularity": 23378,
+            "members": 203,
+            "favorites": 0,
+            "synopsis": "Kyungyas, from vegetable kingdom, comes to the Kyungya Restaurant. \nThey have a mission to make children eat more vegetable and protect them from greasy, instant dishes. However, far from completing their mission, Kyungyas have hard time keeping the restaurant from bankruptcy. It is because of Onion Kyungya\u2019s experimental dishes. His curiosity makes trouble with Celery Kyungya, the manager of Kyungya restaurant. \nHow can they solve the problems they have with the customers. Would it be possible for Kyungyas to accomplish the mission?\n\n(Source: KBS Media)",
+            "background": "",
+            "season": "fall",
+            "year": 2006,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48339,
+            "url": "https://myanimelist.net/anime/48339/Kung_Fu_Gonglyong_Suhodae",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1435/114465.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1435/114465t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1435/114465l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1435/114465.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1435/114465t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1435/114465l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kung Fu Gonglyong Suhodae"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ucff5\ud478 \uacf5\ub8e1 \uc218\ud638\ub300"
+                },
+                {
+                    "type": "English",
+                    "title": "Kung Fu Dino Posse"
+                }
+            ],
+            "title": "Kung Fu Gonglyong Suhodae",
+            "title_english": "Kung Fu Dino Posse",
+            "title_japanese": "\ucff5\ud478 \uacf5\ub8e1 \uc218\ud638\ub300",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 40,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2009-11-12T00:00:00+00:00",
+                "to": "2010-09-04T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 12,
+                        "month": 11,
+                        "year": 2009
+                    },
+                    "to": {
+                        "day": 4,
+                        "month": 9,
+                        "year": 2010
+                    }
+                },
+                "string": "Nov 12, 2009 to Sep 4, 2010"
+            },
+            "duration": "22 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 18187,
+            "popularity": 22800,
+            "members": 229,
+            "favorites": 0,
+            "synopsis": "In the city of Megalopolis, six dinosaurs are thawed out in the basement of the museum when young aspiring paleontologist and technological genius Edgar Chudley accidentally causes a city wide blackout. One year later, Edgar discovers that four of the dinos have been living in the museum basement and have taught themselves kung fu. They befriend Edgar and the group now work together to foil the plans of the other two dinos, raptor brothers evil Skor and dimwitted Skrap, who hunt for crystals that contain mutant DNA with which Skor can create monstrous dinosaurs to conquer the world.\n\n(Source: TVTropes)",
+            "background": "",
+            "season": "fall",
+            "year": 2009,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "anime",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/anime/genre/1/Action"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 17,
+                    "type": "anime",
+                    "name": "Martial Arts",
+                    "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48340,
+            "url": "https://myanimelist.net/anime/48340/Crystal-yojeong_Z-Squad",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1939/114463.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1939/114463t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1939/114463l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1939/114463.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1939/114463t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1939/114463l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Crystal-yojeong Z-Squad"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Crystal Fairy Z-Squad"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Keuliseutal-yojeong Jiseukwodeu"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ud06c\ub9ac\uc2a4\ud0c8\uc694\uc815 \uc9c0\uc2a4\ucffc\ub4dc"
+                },
+                {
+                    "type": "English",
+                    "title": "Z-Squad"
+                }
+            ],
+            "title": "Crystal-yojeong Z-Squad",
+            "title_english": "Z-Squad",
+            "title_japanese": "\ud06c\ub9ac\uc2a4\ud0c8\uc694\uc815 \uc9c0\uc2a4\ucffc\ub4dc",
+            "title_synonyms": [
+                "Crystal Fairy Z-Squad",
+                "Keuliseutal-yojeong Jiseukwodeu"
+            ],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2006-12-04T00:00:00+00:00",
+                "to": "2007-09-10T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 4,
+                        "month": 12,
+                        "year": 2006
+                    },
+                    "to": {
+                        "day": 10,
+                        "month": 9,
+                        "year": 2007
+                    }
+                },
+                "string": "Dec 4, 2006 to Sep 10, 2007"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 16022,
+            "popularity": 20745,
+            "members": 339,
+            "favorites": 1,
+            "synopsis": null,
+            "background": "",
+            "season": "winter",
+            "year": 2007,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48341,
+            "url": "https://myanimelist.net/anime/48341/Kioka",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1846/114462.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1846/114462t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1846/114462l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1846/114462.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1846/114462t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1846/114462l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kioka"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ud0a4\uc624\uce74"
+                }
+            ],
+            "title": "Kioka",
+            "title_english": null,
+            "title_japanese": "\ud0a4\uc624\uce74",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Unknown",
+            "episodes": 78,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2012-01-02T00:00:00+00:00",
+                "to": "2013-10-16T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 2,
+                        "month": 1,
+                        "year": 2012
+                    },
+                    "to": {
+                        "day": 16,
+                        "month": 10,
+                        "year": 2013
+                    }
+                },
+                "string": "Jan 2, 2012 to Oct 16, 2013"
+            },
+            "duration": "8 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 17963,
+            "popularity": 22006,
+            "members": 272,
+            "favorites": 1,
+            "synopsis": null,
+            "background": "",
+            "season": "winter",
+            "year": 2012,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48342,
+            "url": "https://myanimelist.net/anime/48342/Kijeu_CSI",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1510/114461.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1510/114461t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1510/114461l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1510/114461.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1510/114461t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1510/114461l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kijeu CSI"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Kijeu CSI Gwahagsusadae"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Kids CSI"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ud0a4\uc988 CSI \uacfc\ud559\uc218\uc0ac\ub300"
+                }
+            ],
+            "title": "Kijeu CSI",
+            "title_english": null,
+            "title_japanese": "\ud0a4\uc988 CSI \uacfc\ud559\uc218\uc0ac\ub300",
+            "title_synonyms": [
+                "Kijeu CSI Gwahagsusadae",
+                "Kids CSI"
+            ],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 104,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2012-07-09T00:00:00+00:00",
+                "to": "2014-09-15T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 9,
+                        "month": 7,
+                        "year": 2012
+                    },
+                    "to": {
+                        "day": 15,
+                        "month": 9,
+                        "year": 2014
+                    }
+                },
+                "string": "Jul 9, 2012 to Sep 15, 2014"
+            },
+            "duration": "23 min per ep",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 17934,
+            "popularity": 20944,
+            "members": 330,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": "summer",
+            "year": 2012,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 7,
+                    "type": "anime",
+                    "name": "Mystery",
+                    "url": "https://myanimelist.net/anime/genre/7/Mystery"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48343,
+            "url": "https://myanimelist.net/anime/48343/Catch_Tiniping",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1414/114460.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1414/114460t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1414/114460l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1414/114460.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1414/114460t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1414/114460l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Catch! Tiniping"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "\u30ad\u30e3\u30c3\u30c1!\u30c6\u30a3\u30cb\u30d4\u30f3"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\uce90\uce58! \ud2f0\ub2c8\ud551"
+                },
+                {
+                    "type": "English",
+                    "title": "Catch! Teenieping: Fairies of Emotion"
+                }
+            ],
+            "title": "Catch! Tiniping",
+            "title_english": "Catch! Teenieping: Fairies of Emotion",
+            "title_japanese": "\uce90\uce58! \ud2f0\ub2c8\ud551",
+            "title_synonyms": [
+                "\u30ad\u30e3\u30c3\u30c1!\u30c6\u30a3\u30cb\u30d4\u30f3"
+            ],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 52,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2020-03-19T00:00:00+00:00",
+                "to": "2021-04-01T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 19,
+                        "month": 3,
+                        "year": 2020
+                    },
+                    "to": {
+                        "day": 1,
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "string": "Mar 19, 2020 to Apr 1, 2021"
+            },
+            "duration": "11 min per ep",
+            "rating": "PG - Children",
+            "score": 6.32,
+            "scored_by": 208,
+            "rank": 9247,
+            "popularity": 16080,
+            "members": 819,
+            "favorites": 6,
+            "synopsis": "Catch! Teenieping revolves around mischievous creatures called Teenieping that like to enter people's minds, but their playful nature and magical powers can wreak havoc in their hosts' lives. When the Teenieping are set loose on Earth, Princess Romi of the Emotion Kingdom becomes an ordinary girl that has to turn into a magical girl to stop them, all while balancing her new civilian life as a worker for the Bakery Heartrose with her coworkers Ian, Kyle, and Jun.\n\n(Source: Wikipedia)",
+            "background": "",
+            "season": "spring",
+            "year": 2020,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 2541,
+                    "type": "anime",
+                    "name": "SAMG Entertainment",
+                    "url": "https://myanimelist.net/anime/producer/2541/SAMG_Entertainment_"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 66,
+                    "type": "anime",
+                    "name": "Mahou Shoujo",
+                    "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+                },
+                {
+                    "mal_id": 23,
+                    "type": "anime",
+                    "name": "School",
+                    "url": "https://myanimelist.net/anime/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48344,
+            "url": "https://myanimelist.net/anime/48344/Taoleujima_Beoseuteo",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1767/150699.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1767/150699t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1767/150699l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1767/150699.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1767/150699t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1767/150699l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Taoleujima Beoseuteo"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ud0c0\uc624\ub974\uc9c0\ub9c8 \ubc84\uc2a4\ud130"
+                }
+            ],
+            "title": "Taoleujima Beoseuteo",
+            "title_english": null,
+            "title_japanese": "\ud0c0\uc624\ub974\uc9c0\ub9c8 \ubc84\uc2a4\ud130",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2017-01-07T00:00:00+00:00",
+                "to": "2017-07-06T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 7,
+                        "month": 1,
+                        "year": 2017
+                    },
+                    "to": {
+                        "day": 6,
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "string": "Jan 7, 2017 to Jul 6, 2017"
+            },
+            "duration": "15 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 20899,
+            "popularity": 22952,
+            "members": 222,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": "winter",
+            "year": 2017,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [
+                {
+                    "mal_id": 2945,
+                    "type": "anime",
+                    "name": "Studio Goindol",
+                    "url": "https://myanimelist.net/anime/producer/2945/Studio_Goindol"
+                }
+            ],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 18,
+                    "type": "anime",
+                    "name": "Mecha",
+                    "url": "https://myanimelist.net/anime/genre/18/Mecha"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48345,
+            "url": "https://myanimelist.net/anime/48345/Taoleujima_Beoseuteo__Beullaeg-Eosseolteuui_Gwihwan",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1529/114458.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1529/114458t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1529/114458l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1529/114458.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1529/114458t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1529/114458l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Taoleujima Beoseuteo: Beullaeg-Eosseolteuui Gwihwan"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\uadf9\uc7a5\ud310 \ud0c0\uc624\ub974\uc9c0\ub9c8 \ubc84\uc2a4\ud130 - \ube14\ub799\uc5b4\uc370\ud2b8\uc758 \uadc0\ud658"
+                },
+                {
+                    "type": "English",
+                    "title": "T-Buster: The Return of Dark Assault"
+                }
+            ],
+            "title": "Taoleujima Beoseuteo: Beullaeg-Eosseolteuui Gwihwan",
+            "title_english": "T-Buster: The Return of Dark Assault",
+            "title_japanese": "\uadf9\uc7a5\ud310 \ud0c0\uc624\ub974\uc9c0\ub9c8 \ubc84\uc2a4\ud130 - \ube14\ub799\uc5b4\uc370\ud2b8\uc758 \uadc0\ud658",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2019-12-05T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 5,
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Dec 5, 2019"
+            },
+            "duration": "1 hr 13 min",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 20901,
+            "popularity": 24267,
+            "members": 174,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [
+                {
+                    "mal_id": 2945,
+                    "type": "anime",
+                    "name": "Studio Goindol",
+                    "url": "https://myanimelist.net/anime/producer/2945/Studio_Goindol"
+                }
+            ],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 18,
+                    "type": "anime",
+                    "name": "Mecha",
+                    "url": "https://myanimelist.net/anime/genre/18/Mecha"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 48346,
+            "url": "https://myanimelist.net/anime/48346/Tori_Go_Go",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1592/114456.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1592/114456t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1592/114456l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1592/114456.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1592/114456t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1592/114456l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Tori Go! Go!"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Toli Go! Go!"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\ud1a0\ub9ac GO! GO!"
+                }
+            ],
+            "title": "Tori Go! Go!",
+            "title_english": null,
+            "title_japanese": "\ud1a0\ub9ac GO! GO!",
+            "title_synonyms": [
+                "Toli Go! Go!"
+            ],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 17,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2006-07-25T00:00:00+00:00",
+                "to": "2006-11-28T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 25,
+                        "month": 7,
+                        "year": 2006
+                    },
+                    "to": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2006
+                    }
+                },
+                "string": "Jul 25, 2006 to Nov 28, 2006"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 21135,
+            "popularity": 23145,
+            "members": 213,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": "summer",
+            "year": 2006,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 2158,
+                    "type": "anime",
+                    "name": "Durufix",
+                    "url": "https://myanimelist.net/anime/producer/2158/Durufix"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        }
+    ]
+}
