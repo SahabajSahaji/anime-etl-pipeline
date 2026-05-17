@@ -1,8 +1,8 @@
 import requests
 import pandas as pd
 
-def extract_top_anime():
-    url= "https://api.jikan.moe/v4/top/anime"
+def extract_anime():
+    url= "https://api.jikan.moe/v4/anime"
 
     response=requests.get(url)
     data=response.json()
@@ -43,7 +43,7 @@ def extract_top_anime():
             "popularity":anime["popularity"],
             "members":anime["members"],
             "favorites":anime["favorites"],
-            "studios":anime["studios"].get("name"),
+            "studios":", ".join(studio["name"] for studio in anime.get("studios",[])),
             "genres":", ".join(genres_name)
         })
     df=pd.DataFrame(anime_list)
