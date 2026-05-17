@@ -1,0 +1,2877 @@
+{
+    "pagination": {
+        "last_visible_page": 1207,
+        "has_next_page": true,
+        "current_page": 694,
+        "items": {
+            "count": 25,
+            "total": 30159,
+            "per_page": 25
+        }
+    },
+    "data": [
+        {
+            "mal_id": 43356,
+            "url": "https://myanimelist.net/anime/43356/McDull_and_McMug",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1874/118135.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1874/118135t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1874/118135l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1874/118135.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1874/118135t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1874/118135l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "McDull and McMug"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u9ea6\u515c\u4e0e\u9ea6\u551b"
+                }
+            ],
+            "title": "McDull and McMug",
+            "title_english": null,
+            "title_japanese": "\u9ea6\u515c\u4e0e\u9ea6\u551b",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Unknown",
+            "episodes": 13,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1997-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1997
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1997"
+            },
+            "duration": "21 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 18594,
+            "popularity": 25898,
+            "members": 132,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 51,
+                    "type": "anime",
+                    "name": "Anthropomorphic",
+                    "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43357,
+            "url": "https://myanimelist.net/anime/43357/Jin_Se_De_Hai_Luo",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1851/118136.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1851/118136t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1851/118136l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1851/118136.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1851/118136t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1851/118136l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Jin Se De Hai Luo"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Jinse de Hailuo"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Golden Sea Snail"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u91d1\u8272\u7684\u6d77\u87ba"
+                },
+                {
+                    "type": "English",
+                    "title": "The Golden Conch"
+                }
+            ],
+            "title": "Jin Se De Hai Luo",
+            "title_english": "The Golden Conch",
+            "title_japanese": "\u91d1\u8272\u7684\u6d77\u87ba",
+            "title_synonyms": [
+                "Jinse de Hailuo",
+                "The Golden Sea Snail"
+            ],
+            "type": "Movie",
+            "source": "Other",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1963-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1963
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1963"
+            },
+            "duration": "36 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 17565,
+            "popularity": 24766,
+            "members": 158,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43358,
+            "url": "https://myanimelist.net/anime/43358/Huang_Jin_Meng",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1282/118137.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1282/118137t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1282/118137l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1282/118137.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1282/118137t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1282/118137l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Huang Jin Meng"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Huangjin Meng"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Dream of Gold"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u9ec4\u91d1\u68a6"
+                }
+            ],
+            "title": "Huang Jin Meng",
+            "title_english": null,
+            "title_japanese": "\u9ec4\u91d1\u68a6",
+            "title_synonyms": [
+                "Huangjin Meng",
+                "The Dream of Gold"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1963-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1963
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1963"
+            },
+            "duration": "22 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 17279,
+            "popularity": 25043,
+            "members": 151,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43359,
+            "url": "https://myanimelist.net/anime/43359/Zhang_Fa_Mei",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1523/118139.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1523/118139t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1523/118139l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1523/118139.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1523/118139t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1523/118139l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Zhang Fa Mei"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Changfa Mei"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Girl With Long Hair"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u957f\u53d1\u59b9"
+                }
+            ],
+            "title": "Zhang Fa Mei",
+            "title_english": null,
+            "title_japanese": "\u957f\u53d1\u59b9",
+            "title_synonyms": [
+                "Changfa Mei",
+                "The Girl With Long Hair"
+            ],
+            "type": "Movie",
+            "source": "Other",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1963-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1963
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1963"
+            },
+            "duration": "23 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 22400,
+            "popularity": 24946,
+            "members": 154,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43360,
+            "url": "https://myanimelist.net/anime/43360/Si_Dian_Ban",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1855/118140.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1855/118140t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1855/118140l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1855/118140.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1855/118140t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1855/118140l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Si Dian Ban"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Sidian Ban"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Four and a Half O'clock"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u56db\u70b9\u534a"
+                }
+            ],
+            "title": "Si Dian Ban",
+            "title_english": null,
+            "title_japanese": "\u56db\u70b9\u534a",
+            "title_synonyms": [
+                "Sidian Ban",
+                "Four and a Half O'clock"
+            ],
+            "type": "Movie",
+            "source": "Other",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1964-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1964
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1964"
+            },
+            "duration": "20 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 20549,
+            "popularity": 26237,
+            "members": 126,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43361,
+            "url": "https://myanimelist.net/anime/43361/Cha_Bu_Duo",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1925/118141.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1925/118141t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1925/118141l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1925/118141.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1925/118141t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1925/118141l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Cha Bu Duo"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Almost There"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5dee\u4e0d\u591a"
+                }
+            ],
+            "title": "Cha Bu Duo",
+            "title_english": null,
+            "title_japanese": "\u5dee\u4e0d\u591a",
+            "title_synonyms": [
+                "Almost There"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1964-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1964
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1964"
+            },
+            "duration": "10 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 15742,
+            "popularity": 24209,
+            "members": 175,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43362,
+            "url": "https://myanimelist.net/anime/43362/Cao_Yuan_Ying_Xiong_Xiao_Jie_Mei",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1346/118142.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1346/118142t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1346/118142l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1346/118142.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1346/118142t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1346/118142l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Cao Yuan Ying Xiong Xiao Jie Mei"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Caoyuan Yingxiong Xiao Jiemei"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Heroic Little Sisters of the Grassland"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u8349\u539f\u82f1\u96c4\u5c0f\u59d0\u59b9"
+                }
+            ],
+            "title": "Cao Yuan Ying Xiong Xiao Jie Mei",
+            "title_english": null,
+            "title_japanese": "\u8349\u539f\u82f1\u96c4\u5c0f\u59d0\u59b9",
+            "title_synonyms": [
+                "Caoyuan Yingxiong Xiao Jiemei",
+                "Heroic Little Sisters of the Grassland"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1965-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1965
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1965"
+            },
+            "duration": "40 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 15707,
+            "popularity": 24548,
+            "members": 164,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43363,
+            "url": "https://myanimelist.net/anime/43363/Hong_Jun_Qiao",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1033/118143.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1033/118143t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1033/118143l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1033/118143.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1033/118143t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1033/118143l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Hong Jun Qiao"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Hongjun Qiao"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The \"Red Army\" Bridge"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u7ea2\u519b\u6865"
+                }
+            ],
+            "title": "Hong Jun Qiao",
+            "title_english": null,
+            "title_japanese": "\u7ea2\u519b\u6865",
+            "title_synonyms": [
+                "Hongjun Qiao",
+                "The \"Red Army\" Bridge"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1964-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1964
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1964"
+            },
+            "duration": "18 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 17174,
+            "popularity": 25207,
+            "members": 147,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43364,
+            "url": "https://myanimelist.net/anime/43364/Lu_Bian_Xin_Shi",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1180/118144.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1180/118144t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1180/118144l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1180/118144.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1180/118144t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1180/118144l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Lu Bian Xin Shi"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Lubian Xinshi"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "New Deeds on the Roadside"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u8def\u8fb9\u65b0\u4e8b"
+                }
+            ],
+            "title": "Lu Bian Xin Shi",
+            "title_english": null,
+            "title_japanese": "\u8def\u8fb9\u65b0\u4e8b",
+            "title_synonyms": [
+                "Lubian Xinshi",
+                "New Deeds on the Roadside"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1964-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1964
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1964"
+            },
+            "duration": "15 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 18407,
+            "popularity": 25384,
+            "members": 143,
+            "favorites": 1,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43365,
+            "url": "https://myanimelist.net/anime/43365/Bing_Shang_Yu_Xian",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1941/118145.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1941/118145t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1941/118145l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1941/118145.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1941/118145t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1941/118145l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Bing Shang Yu Xian"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Bingshang Yuxian"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Adventures on the Ice"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u51b0\u4e0a\u9047\u9669"
+                }
+            ],
+            "title": "Bing Shang Yu Xian",
+            "title_english": null,
+            "title_japanese": "\u51b0\u4e0a\u9047\u9669",
+            "title_synonyms": [
+                "Bingshang Yuxian",
+                "Adventures on the Ice"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1964-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1964
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1964"
+            },
+            "duration": "15 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 15529,
+            "popularity": 24239,
+            "members": 174,
+            "favorites": 0,
+            "synopsis": "Little Bear was learning to skate for the first time. With the guidance of expert skaters Little Squirrel and Little Rabbit, he quickly mastered the forward and backward skating techniques. Later, Little Badger suggested that Little Rabbit perform a figure skating show. Little Rabbit's skillful and graceful movements stunned Little Bear, and even experts like Little Squirrel and Little Badger were full of praise. Suddenly, Little Rabbit, while leaping from the air, broke through the ice and fell into a hole. Just as Little Squirrel and Little Bear pulled Little Rabbit out of the hole, Little Bear slipped and knocked Little Squirrel back into the ice. Little Badger quickly jumped in to rescue Little Rabbit, but due to his poor swimming skills, Little Rabbit and Little Squirrel both sank to the bottom. Little Badger quickly told Little Bear to run and find help. Little Red Duck, leading the skiing competition, heard Little Bear's cries for help and immediately stopped the race. Resolutely abandoning his sure win, Little Duck went to the scene and rescued his friend.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43366,
+            "url": "https://myanimelist.net/anime/43366/Ban_Ye_Ji_Jiao",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1350/118146.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1350/118146t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1350/118146l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1350/118146.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1350/118146t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1350/118146l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Ban Ye Ji Jiao"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Banye Jijiao"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Rooster Crows At Midnight"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u534a\u591c\u9e21\u53eb"
+                }
+            ],
+            "title": "Ban Ye Ji Jiao",
+            "title_english": null,
+            "title_japanese": "\u534a\u591c\u9e21\u53eb",
+            "title_synonyms": [
+                "Banye Jijiao",
+                "The Rooster Crows At Midnight"
+            ],
+            "type": "Movie",
+            "source": "Novel",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1964-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1964
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1964"
+            },
+            "duration": "16 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 15368,
+            "popularity": 24154,
+            "members": 177,
+            "favorites": 0,
+            "synopsis": "This animated puppet film is adapted from Gao Yubao's novel of the same name. In the \"old society,\" the landlord class employed a wide array of tactics to exploit the peasants, including imitating roosters' crows in the middle of the night. With the Lunar New Year approaching, landlord Zhou Paopi, in an effort to dismiss his farmhands who had toiled all year and deny them their wages, devised the cunning tactic of imitating roosters' crows. As soon as the farmhands, exhausted from a day's work, lay down, he tiptoed into the chicken coop and imitated a couple of rooster crows to induce the roosters to crow. Then, at his urging, the farmhands struggled to get up and work in the fields. Zhou Paopi calculated that the farmhands' bodies would soon tire from such torment, giving him ample excuse to fire them. However, his scheme failed.",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43367,
+            "url": "https://myanimelist.net/anime/43367/Hu_Shang_Ge_Wu",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1096/118147.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1096/118147t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1096/118147l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1096/118147.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1096/118147t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1096/118147l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Hu Shang Ge Wu"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Hushang Gewu"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Singing and Dancing on the Lake"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u6e56\u4e0a\u6b4c\u821e"
+                }
+            ],
+            "title": "Hu Shang Ge Wu",
+            "title_english": null,
+            "title_japanese": "\u6e56\u4e0a\u6b4c\u821e",
+            "title_synonyms": [
+                "Hushang Gewu",
+                "Singing and Dancing on the Lake"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1964-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1964
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1964"
+            },
+            "duration": "16 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 17248,
+            "popularity": 25334,
+            "members": 144,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43368,
+            "url": "https://myanimelist.net/anime/43368/Xiao_Lin_Riji",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1607/118148.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1607/118148t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1607/118148l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1607/118148.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1607/118148t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1607/118148l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xiao Lin Riji"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Xiao Lin Ri Ji"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Xiao Lin's Dairy"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Xiaolin's Diary"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5c0f\u6797\u65e5\u8bb0"
+                }
+            ],
+            "title": "Xiao Lin Riji",
+            "title_english": null,
+            "title_japanese": "\u5c0f\u6797\u65e5\u8bb0",
+            "title_synonyms": [
+                "Xiao Lin Ri Ji",
+                "Xiao Lin's Dairy",
+                "Xiaolin's Diary"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1965-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1965
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1965"
+            },
+            "duration": "10 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 21715,
+            "popularity": 26372,
+            "members": 124,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43369,
+            "url": "https://myanimelist.net/anime/43369/Hong_Ling_Jin",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1616/118149.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1616/118149t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1616/118149l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1616/118149.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1616/118149t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1616/118149l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Hong Ling Jin"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Hong Lingjin"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Red Scarf"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u7ea2\u9886\u5dfe"
+                }
+            ],
+            "title": "Hong Ling Jin",
+            "title_english": null,
+            "title_japanese": "\u7ea2\u9886\u5dfe",
+            "title_synonyms": [
+                "Hong Lingjin",
+                "The Red Scarf"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1965-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1965
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1965"
+            },
+            "duration": "20 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 17175,
+            "popularity": 25335,
+            "members": 144,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43370,
+            "url": "https://myanimelist.net/anime/43370/Wo_Men_Ai_Nong_Cun",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1356/118150.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1356/118150t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1356/118150l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1356/118150.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1356/118150t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1356/118150l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Wo Men Ai Nong Cun"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Women ai Nongcun"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "We Love the Countryside"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u6211\u4eec\u7231\u519c\u6751"
+                }
+            ],
+            "title": "Wo Men Ai Nong Cun",
+            "title_english": null,
+            "title_japanese": "\u6211\u4eec\u7231\u519c\u6751",
+            "title_synonyms": [
+                "Women ai Nongcun",
+                "We Love the Countryside"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1965-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1965
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1965"
+            },
+            "duration": "10 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 21475,
+            "popularity": 26023,
+            "members": 130,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43371,
+            "url": "https://myanimelist.net/anime/43371/Li_Ke_Zhang_Giao_Nan_Chui_Shi_Ban",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1798/118151.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1798/118151t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1798/118151l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1798/118151.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1798/118151t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1798/118151l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Li Ke Zhang Giao Nan Chui Shi Ban"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Li Kezhang Qiao Nan Chuishi Ban"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Chief Li Challenges the Cookhouse Squad"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u674e\u79d1\u957f\u5de7\u96be\u708a\u4e8b"
+                }
+            ],
+            "title": "Li Ke Zhang Giao Nan Chui Shi Ban",
+            "title_english": null,
+            "title_japanese": "\u674e\u79d1\u957f\u5de7\u96be\u708a\u4e8b",
+            "title_synonyms": [
+                "Li Kezhang Qiao Nan Chuishi Ban",
+                "Chief Li Challenges the Cookhouse Squad"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1965-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1965
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1965"
+            },
+            "duration": "23 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 18320,
+            "popularity": 25303,
+            "members": 145,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43372,
+            "url": "https://myanimelist.net/anime/43372/Nan_Fang_Shao_Nian",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1923/118152.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1923/118152t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1923/118152l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1923/118152.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1923/118152t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1923/118152l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Nan Fang Shao Nian"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Nanfang Shaonian"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Boy from South"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5357\u65b9\u5c11\u5e74"
+                }
+            ],
+            "title": "Nan Fang Shao Nian",
+            "title_english": null,
+            "title_japanese": "\u5357\u65b9\u5c11\u5e74",
+            "title_synonyms": [
+                "Nanfang Shaonian",
+                "The Boy from South"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1965-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1965
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1965"
+            },
+            "duration": "40 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 19054,
+            "popularity": 26068,
+            "members": 129,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43373,
+            "url": "https://myanimelist.net/anime/43373/Xiao_Ge_Er_Lia",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1989/118153.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1989/118153t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1989/118153l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1989/118153.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1989/118153t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1989/118153l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xiao Ge Er Lia"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Xiao Ge'r Lia"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Two Little Brothers"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5c0f\u54e5\u513f\u4fe9"
+                }
+            ],
+            "title": "Xiao Ge Er Lia",
+            "title_english": null,
+            "title_japanese": "\u5c0f\u54e5\u513f\u4fe9",
+            "title_synonyms": [
+                "Xiao Ge'r Lia",
+                "Two Little Brothers"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1965-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1965
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1965"
+            },
+            "duration": "13 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 21680,
+            "popularity": 25228,
+            "members": 147,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43374,
+            "url": "https://myanimelist.net/anime/43374/Wan_Dun_Shui_Ya_Ji_Zhan_Ge",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1399/118154.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1399/118154t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1399/118154l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1399/118154.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1399/118154t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1399/118154l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Wan Dun Shui Ya Ji Zhan Ge"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Wandun Shuiya Ji Zhan'ge"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Battle Song of the 10000-ton Water Hydraulic Forging Press"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u4e07\u5428\u6c34\u538b\u673a\u6218\u6b4c"
+                }
+            ],
+            "title": "Wan Dun Shui Ya Ji Zhan Ge",
+            "title_english": null,
+            "title_japanese": "\u4e07\u5428\u6c34\u538b\u673a\u6218\u6b4c",
+            "title_synonyms": [
+                "Wandun Shuiya Ji Zhan'ge",
+                "The Battle Song of the 10000-ton Water Hydraulic Forging Press"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1972-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1972
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1972"
+            },
+            "duration": "30 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 21358,
+            "popularity": 26780,
+            "members": 118,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43375,
+            "url": "https://myanimelist.net/anime/43375/Fang_Xue_Yi_Hou",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1467/118155.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1467/118155t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1467/118155l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1467/118155.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1467/118155t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1467/118155l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Fang Xue Yi Hou"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Fangxue Yihou"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "After School"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u653e\u5b66\u4ee5\u540e"
+                }
+            ],
+            "title": "Fang Xue Yi Hou",
+            "title_english": null,
+            "title_japanese": "\u653e\u5b66\u4ee5\u540e",
+            "title_synonyms": [
+                "Fangxue Yihou",
+                "After School"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1972-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1972
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1972"
+            },
+            "duration": "10 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 16496,
+            "popularity": 25378,
+            "members": 143,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43376,
+            "url": "https://myanimelist.net/anime/43376/Dong_Hai_Xiao_Shao_Bing",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1441/118156.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1441/118156t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1441/118156l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1441/118156.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1441/118156t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1441/118156l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Dong Hai Xiao Shao Bing"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Donghai Xiao Shaobing"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Little Sentinels of the East Sea"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u4e1c\u6d77\u5c0f\u54e8\u5175"
+                }
+            ],
+            "title": "Dong Hai Xiao Shao Bing",
+            "title_english": null,
+            "title_japanese": "\u4e1c\u6d77\u5c0f\u54e8\u5175",
+            "title_synonyms": [
+                "Donghai Xiao Shaobing",
+                "Little Sentinels of the East Sea"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1973-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1973
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1973"
+            },
+            "duration": "20 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 16268,
+            "popularity": 25880,
+            "members": 132,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43377,
+            "url": "https://myanimelist.net/anime/43377/Bu_Cha_Ban_Fen_Hao",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+                    "small_image_url": "https://myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+                    "large_image_url": "https://myanimelist.net/img/sp/icon/apple-touch-icon-256.png"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+                    "small_image_url": "https://myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+                    "large_image_url": "https://myanimelist.net/img/sp/icon/apple-touch-icon-256.png"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Bu Cha Ban Fen Hao"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Bucha Ban Fenhao"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Never Owing the People Half a Penny"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u4e0d\u5dee\u534a\u5206\u6beb"
+                }
+            ],
+            "title": "Bu Cha Ban Fen Hao",
+            "title_english": null,
+            "title_japanese": "\u4e0d\u5dee\u534a\u5206\u6beb",
+            "title_synonyms": [
+                "Bucha Ban Fenhao",
+                "Never Owing the People Half a Penny"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1973-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1973
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1973"
+            },
+            "duration": "20 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 15605,
+            "popularity": 25923,
+            "members": 131,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43378,
+            "url": "https://myanimelist.net/anime/43378/Xiao_Hao_Shou",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1284/118157.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1284/118157t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1284/118157l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1284/118157.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1284/118157t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1284/118157l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xiao Hao Shou"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Xiaohao Shou"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Little Trumpeter"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5c0f\u53f7\u624b"
+                }
+            ],
+            "title": "Xiao Hao Shou",
+            "title_english": null,
+            "title_japanese": "\u5c0f\u53f7\u624b",
+            "title_synonyms": [
+                "Xiaohao Shou",
+                "The Little Trumpeter"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1973-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1973
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1973"
+            },
+            "duration": "37 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 21685,
+            "popularity": 26370,
+            "members": 124,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43379,
+            "url": "https://myanimelist.net/anime/43379/Dai_Xiang_De_Gong_Jian",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1545/118158.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1545/118158t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1545/118158l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1545/118158.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1545/118158t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1545/118158l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Dai Xiang De Gong Jian"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Daixiang De Gongjian"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Arrows with Firecrackers"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5e26\u54cd\u7684\u5f13\u7bad"
+                }
+            ],
+            "title": "Dai Xiang De Gong Jian",
+            "title_english": null,
+            "title_japanese": "\u5e26\u54cd\u7684\u5f13\u7bad",
+            "title_synonyms": [
+                "Daixiang De Gongjian",
+                "Arrows with Firecrackers"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1974-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1974
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1974"
+            },
+            "duration": "29 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 16092,
+            "popularity": 26045,
+            "members": 129,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 43380,
+            "url": "https://myanimelist.net/anime/43380/Xiao_Balu",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1758/118161.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1758/118161t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1758/118161l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1758/118161.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1758/118161t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1758/118161l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xiao Balu"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Little Eighth-Route Soldier"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5c0f\u516b\u8def"
+                }
+            ],
+            "title": "Xiao Balu",
+            "title_english": null,
+            "title_japanese": "\u5c0f\u516b\u8def",
+            "title_synonyms": [
+                "The Little Eighth-Route Soldier"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "1974-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1974
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1974"
+            },
+            "duration": "47 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 21651,
+            "popularity": 25962,
+            "members": 131,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 471,
+                    "type": "anime",
+                    "name": "Shanghai Animation Film Studio",
+                    "url": "https://myanimelist.net/anime/producer/471/Shanghai_Animation_Film_Studio"
+                }
+            ],
+            "genres": [],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        }
+    ]
+}

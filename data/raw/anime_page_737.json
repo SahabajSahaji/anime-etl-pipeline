@@ -1,0 +1,2987 @@
+{
+    "pagination": {
+        "last_visible_page": 1207,
+        "has_next_page": true,
+        "current_page": 737,
+        "items": {
+            "count": 25,
+            "total": 30159,
+            "per_page": 25
+        }
+    },
+    "data": [
+        {
+            "mal_id": 44910,
+            "url": "https://myanimelist.net/anime/44910/Chao_Neng_Tu_Zhandui",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1929/121313.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1929/121313t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1929/121313l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1929/121313.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1929/121313t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1929/121313l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Chao Neng Tu Zhandui"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Super Rabbit"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u8d85\u80fd\u5154\u6218\u961f"
+                },
+                {
+                    "type": "English",
+                    "title": "Rabbit Hero"
+                }
+            ],
+            "title": "Chao Neng Tu Zhandui",
+            "title_english": "Rabbit Hero",
+            "title_japanese": "\u8d85\u80fd\u5154\u6218\u961f",
+            "title_synonyms": [
+                "Super Rabbit"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-05-30T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 30,
+                        "month": 5,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "May 30, 2015"
+            },
+            "duration": "1 hr 21 min",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 15770,
+            "popularity": 25681,
+            "members": 136,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                },
+                {
+                    "mal_id": 24,
+                    "type": "anime",
+                    "name": "Sci-Fi",
+                    "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44911,
+            "url": "https://myanimelist.net/anime/44911/Jujinghuishen_Bang",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1293/121312.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1293/121312t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1293/121312l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1293/121312.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1293/121312t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1293/121312l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Jujinghuishen Bang"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u805a\u7cbe\u4f1a\u795e\u699c"
+                }
+            ],
+            "title": "Jujinghuishen Bang",
+            "title_english": null,
+            "title_japanese": "\u805a\u7cbe\u4f1a\u795e\u699c",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 52,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-10-08T00:00:00+00:00",
+                "to": "2016-01-01T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 8,
+                        "month": 10,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2016
+                    }
+                },
+                "string": "Oct 8, 2015 to 2016"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 17684,
+            "popularity": 28028,
+            "members": 99,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44912,
+            "url": "https://myanimelist.net/anime/44912/Alibaba_Dadao_Qibing",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1144/127937.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1144/127937t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1144/127937l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1144/127937.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1144/127937t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1144/127937l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Alibaba Dadao Qibing"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u963f\u91cc\u5df4\u5df4\u5927\u76d7\u5947\u5175"
+                },
+                {
+                    "type": "English",
+                    "title": "Alibaba and The Thief"
+                }
+            ],
+            "title": "Alibaba Dadao Qibing",
+            "title_english": "Alibaba and The Thief",
+            "title_japanese": "\u963f\u91cc\u5df4\u5df4\u5927\u76d7\u5947\u5175",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-05-23T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 23,
+                        "month": 5,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "May 23, 2015"
+            },
+            "duration": "1 hr 16 min",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 15119,
+            "popularity": 25541,
+            "members": 139,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44914,
+            "url": "https://myanimelist.net/anime/44914/Shengdan_Da_Yingjia",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1846/128429.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1846/128429t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1846/128429l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1846/128429.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1846/128429t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1846/128429l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Shengdan Da Yingjia"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Winner"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5723\u8bde\u5927\u8d62\u5bb6"
+                }
+            ],
+            "title": "Shengdan Da Yingjia",
+            "title_english": null,
+            "title_japanese": "\u5723\u8bde\u5927\u8d62\u5bb6",
+            "title_synonyms": [
+                "The Winner"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-12-12T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Dec 12, 2015"
+            },
+            "duration": "1 hr 25 min",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 20273,
+            "popularity": 26840,
+            "members": 117,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 51,
+                    "type": "anime",
+                    "name": "Anthropomorphic",
+                    "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44915,
+            "url": "https://myanimelist.net/anime/44915/Xinnian_Lai_La__Da_Nao_Chuxi",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1568/128432.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1568/128432t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1568/128432l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1568/128432.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1568/128432t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1568/128432l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xinnian Lai La: Da Nao Chuxi"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Xinnian is Coming: Uproar of Chuxi"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u65b0\u5e74\u6765\u5566\u4e4b\u5927\u95f9\u9664\u5915"
+                }
+            ],
+            "title": "Xinnian Lai La: Da Nao Chuxi",
+            "title_english": null,
+            "title_japanese": "\u65b0\u5e74\u6765\u5566\u4e4b\u5927\u95f9\u9664\u5915",
+            "title_synonyms": [
+                "Xinnian is Coming: Uproar of Chuxi"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-02-19T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 19,
+                        "month": 2,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Feb 19, 2015"
+            },
+            "duration": "1 hr 20 min",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 22004,
+            "popularity": 27048,
+            "members": 114,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44916,
+            "url": "https://myanimelist.net/anime/44916/Xinnian_Lai_La__Yimingjingren",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1224/129913.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1224/129913t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1224/129913l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1224/129913.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1224/129913t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1224/129913l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xinnian Lai La: Yimingjingren"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u65b0\u5e74\u6765\u5566\u4e4b\u4e00\u9e23\u60ca\u4eba"
+                }
+            ],
+            "title": "Xinnian Lai La: Yimingjingren",
+            "title_english": null,
+            "title_japanese": "\u65b0\u5e74\u6765\u5566\u4e4b\u4e00\u9e23\u60ca\u4eba",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2014-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2014
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2014 to ?"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 22010,
+            "popularity": 28892,
+            "members": 91,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44917,
+            "url": "https://myanimelist.net/anime/44917/Xinnian_Lai_La__Shenmi_Baozang",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1201/129915.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1201/129915t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1201/129915l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1201/129915.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1201/129915t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1201/129915l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xinnian Lai La: Shenmi Baozang"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u65b0\u5e74\u6765\u5566\u4e4b\u795e\u79d8\u5b9d\u85cf"
+                }
+            ],
+            "title": "Xinnian Lai La: Shenmi Baozang",
+            "title_english": null,
+            "title_japanese": "\u65b0\u5e74\u6765\u5566\u4e4b\u795e\u79d8\u5b9d\u85cf",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2015"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 22007,
+            "popularity": 28890,
+            "members": 91,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44918,
+            "url": "https://myanimelist.net/anime/44918/Xinnian_Lai_La__Wenzi_Da_Jienan",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1220/129916.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1220/129916t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1220/129916l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1220/129916.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1220/129916t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1220/129916l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xinnian Lai La: Wenzi Da Jienan"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u65b0\u5e74\u6765\u5566\u4e4b\u6587\u5b57\u5927\u52ab\u96be"
+                }
+            ],
+            "title": "Xinnian Lai La: Wenzi Da Jienan",
+            "title_english": null,
+            "title_japanese": "\u65b0\u5e74\u6765\u5566\u4e4b\u6587\u5b57\u5927\u52ab\u96be",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2015 to ?"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 22009,
+            "popularity": 29002,
+            "members": 90,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44919,
+            "url": "https://myanimelist.net/anime/44919/Xinnian_Lai_La__Yong_Chuang_Mo_Shan",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1256/129917.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1256/129917t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1256/129917l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1256/129917.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1256/129917t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1256/129917l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xinnian Lai La: Yong Chuang Mo Shan"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u65b0\u5e74\u6765\u5566\u4e4b\u52c7\u95ef\u9b54\u5c71"
+                }
+            ],
+            "title": "Xinnian Lai La: Yong Chuang Mo Shan",
+            "title_english": null,
+            "title_japanese": "\u65b0\u5e74\u6765\u5566\u4e4b\u52c7\u95ef\u9b54\u5c71",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2016-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2016
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2016 to ?"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 22011,
+            "popularity": 29004,
+            "members": 90,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44920,
+            "url": "https://myanimelist.net/anime/44920/Xinnian_Lai_La__Shenqi_Wugong",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1887/129918.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1887/129918t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1887/129918l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1887/129918.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1887/129918t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1887/129918l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xinnian Lai La: Shenqi Wugong"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u65b0\u5e74\u6765\u5566\u4e4b\u795e\u5947\u6b66\u529f"
+                }
+            ],
+            "title": "Xinnian Lai La: Shenqi Wugong",
+            "title_english": null,
+            "title_japanese": "\u65b0\u5e74\u6765\u5566\u4e4b\u795e\u5947\u6b66\u529f",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2017-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2017
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2017 to ?"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 22008,
+            "popularity": 29108,
+            "members": 89,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44921,
+            "url": "https://myanimelist.net/anime/44921/Xinnian_Lai_La__Baicao_Jie_Yao",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1514/129919.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1514/129919t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1514/129919l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1514/129919.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1514/129919t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1514/129919l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xinnian Lai La: Baicao Jie Yao"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u65b0\u5e74\u6765\u5566\u4e4b\u767e\u8349\u89e3\u836f"
+                }
+            ],
+            "title": "Xinnian Lai La: Baicao Jie Yao",
+            "title_english": null,
+            "title_japanese": "\u65b0\u5e74\u6765\u5566\u4e4b\u767e\u8349\u89e3\u836f",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2017-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2017
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2017 to ?"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 22003,
+            "popularity": 29108,
+            "members": 89,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44922,
+            "url": "https://myanimelist.net/anime/44922/Xinnian_Lai_La__Ju_Men_Zaixian",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1380/129920.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1380/129920t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1380/129920l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1380/129920.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1380/129920t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1380/129920l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xinnian Lai La: Ju Men Zaixian"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u65b0\u5e74\u6765\u5566\u4e4b\u5de8\u95e8\u518d\u73b0"
+                }
+            ],
+            "title": "Xinnian Lai La: Ju Men Zaixian",
+            "title_english": null,
+            "title_japanese": "\u65b0\u5e74\u6765\u5566\u4e4b\u5de8\u95e8\u518d\u73b0",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": null,
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Not available"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 22005,
+            "popularity": 28251,
+            "members": 97,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44923,
+            "url": "https://myanimelist.net/anime/44923/Xinnian_Lai_La__Ku_Duo_La",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1053/128433.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1053/128433t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1053/128433l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1053/128433.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1053/128433t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1053/128433l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xinnian Lai La: Ku Duo La"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u65b0\u5e74\u6765\u5566\u4e4b\u9177\u591a\u5566"
+                }
+            ],
+            "title": "Xinnian Lai La: Ku Duo La",
+            "title_english": null,
+            "title_japanese": "\u65b0\u5e74\u6765\u5566\u4e4b\u9177\u591a\u5566",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2018-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2018
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2018 to ?"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 22006,
+            "popularity": 28355,
+            "members": 96,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44924,
+            "url": "https://myanimelist.net/anime/44924/Changjiang_7_Hao__Qi_Zi_Ai_Diqiu",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1425/128428.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1425/128428t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1425/128428l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1425/128428.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1425/128428t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1425/128428l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Changjiang 7 Hao: Qi Zi Ai Diqiu"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "CJ-7 The Cartoon"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u957f\u6c5f7\u53f7\u4e4b\u4e03\u4ed4\u7231\u5730\u7403"
+                }
+            ],
+            "title": "Changjiang 7 Hao: Qi Zi Ai Diqiu",
+            "title_english": null,
+            "title_japanese": "\u957f\u6c5f7\u53f7\u4e4b\u4e03\u4ed4\u7231\u5730\u7403",
+            "title_synonyms": [
+                "CJ-7 The Cartoon"
+            ],
+            "type": "TV",
+            "source": "Other",
+            "episodes": 45,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2015 to ?"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 15757,
+            "popularity": 26386,
+            "members": 123,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44925,
+            "url": "https://myanimelist.net/anime/44925/Changjiang_7_Hao__Chao_Meng_Tegong_Dui",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1078/128427.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1078/128427t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1078/128427l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1078/128427.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1078/128427t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1078/128427l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Changjiang 7 Hao: Chao Meng Tegong Dui"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "CJ7: Super Q Team"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u957f\u6c5f7\u53f7\uff1a\u8d85\u840c\u7279\u653b\u961f"
+                }
+            ],
+            "title": "Changjiang 7 Hao: Chao Meng Tegong Dui",
+            "title_english": null,
+            "title_japanese": "\u957f\u6c5f7\u53f7\uff1a\u8d85\u840c\u7279\u653b\u961f",
+            "title_synonyms": [
+                "CJ7: Super Q Team"
+            ],
+            "type": "Movie",
+            "source": "Other",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-09-26T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 26,
+                        "month": 9,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Sep 26, 2015"
+            },
+            "duration": "1 hr 16 min",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 15756,
+            "popularity": 25730,
+            "members": 135,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44926,
+            "url": "https://myanimelist.net/anime/44926/Xiao_Zhu_Banna",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1483/128421.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1483/128421t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1483/128421l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1483/128421.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1483/128421t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1483/128421l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xiao Zhu Banna"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5c0f\u732a\u73ed\u7eb3"
+                }
+            ],
+            "title": "Xiao Zhu Banna",
+            "title_english": null,
+            "title_japanese": "\u5c0f\u732a\u73ed\u7eb3",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 52,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2012-08-27T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 27,
+                        "month": 8,
+                        "year": 2012
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Aug 27, 2012 to ?"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 21818,
+            "popularity": 28241,
+            "members": 97,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 51,
+                    "type": "anime",
+                    "name": "Anthropomorphic",
+                    "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44927,
+            "url": "https://myanimelist.net/anime/44927/Xiao_Zhu_Banna_2",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1190/128424.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1190/128424t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1190/128424l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1190/128424.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1190/128424t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1190/128424l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xiao Zhu Banna 2"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5c0f\u732a\u73ed\u7eb32"
+                }
+            ],
+            "title": "Xiao Zhu Banna 2",
+            "title_english": null,
+            "title_japanese": "\u5c0f\u732a\u73ed\u7eb32",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 52,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2013-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2013
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2013 to ?"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 21819,
+            "popularity": 28654,
+            "members": 93,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 51,
+                    "type": "anime",
+                    "name": "Anthropomorphic",
+                    "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44928,
+            "url": "https://myanimelist.net/anime/44928/Xiao_Zhu_Banna_3",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1209/128425.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1209/128425t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1209/128425l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1209/128425.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1209/128425t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1209/128425l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xiao Zhu Banna 3"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5c0f\u732a\u73ed\u7eb33"
+                }
+            ],
+            "title": "Xiao Zhu Banna 3",
+            "title_english": null,
+            "title_japanese": "\u5c0f\u732a\u73ed\u7eb33",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Original",
+            "episodes": 52,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2015 to ?"
+            },
+            "duration": "13 min per ep",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 21820,
+            "popularity": 28656,
+            "members": 93,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 51,
+                    "type": "anime",
+                    "name": "Anthropomorphic",
+                    "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44929,
+            "url": "https://myanimelist.net/anime/44929/Xiao_Zhu_Banna_Da_Dianying__Mengxiang_Da_Mao_Xian",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1518/128420.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1518/128420t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1518/128420l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1518/128420.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1518/128420t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1518/128420l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Xiao Zhu Banna Da Dianying: Mengxiang Da \"Mao\" Xian"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Adventures of Little Piglet Banna"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u5c0f\u732a\u73ed\u7eb3\u5927\u7535\u5f71\u4e4b\u68a6\u60f3\u5927\u201c\u5e3d\u201d\u9669"
+                }
+            ],
+            "title": "Xiao Zhu Banna Da Dianying: Mengxiang Da \"Mao\" Xian",
+            "title_english": null,
+            "title_japanese": "\u5c0f\u732a\u73ed\u7eb3\u5927\u7535\u5f71\u4e4b\u68a6\u60f3\u5927\u201c\u5e3d\u201d\u9669",
+            "title_synonyms": [
+                "The Adventures of Little Piglet Banna"
+            ],
+            "type": "Movie",
+            "source": "Original",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-06-27T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 27,
+                        "month": 6,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Jun 27, 2015"
+            },
+            "duration": "1 hr 30 min",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 21821,
+            "popularity": 27121,
+            "members": 113,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 51,
+                    "type": "anime",
+                    "name": "Anthropomorphic",
+                    "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44931,
+            "url": "https://myanimelist.net/anime/44931/Tonikaku_Kawaii__SNS",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1765/122768.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1765/122768t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1765/122768l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1765/122768.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1765/122768t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1765/122768l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": "https://www.youtube-nocookie.com/embed/OfNRdizPTF8?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Tonikaku Kawaii: SNS"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Tonikaku Kawaii OVA"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Tonikawa"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Tonikaku Kawaii Episode 13"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30c8\u30cb\u30ab\u30af\u30ab\u30ef\u30a4\u30a4 \u301cSNS\u301c"
+                },
+                {
+                    "type": "English",
+                    "title": "Tonikawa: Over The Moon For You - SNS"
+                },
+                {
+                    "type": "German",
+                    "title": "Tonikawa: Over The Moon, Folge 13 Social Media"
+                },
+                {
+                    "type": "Spanish",
+                    "title": "Tonikawa: Over The Moon For You Episodio 13 Redes sociales"
+                },
+                {
+                    "type": "French",
+                    "title": "Tonikawa: Over The Moon For You \u00c9pisode 13 Les R\u00e9seaux sociaux"
+                }
+            ],
+            "title": "Tonikaku Kawaii: SNS",
+            "title_english": "Tonikawa: Over The Moon For You - SNS",
+            "title_japanese": "\u30c8\u30cb\u30ab\u30af\u30ab\u30ef\u30a4\u30a4 \u301cSNS\u301c",
+            "title_synonyms": [
+                "Tonikaku Kawaii OVA",
+                "Tonikawa",
+                "Tonikaku Kawaii Episode 13"
+            ],
+            "type": "OVA",
+            "source": "Manga",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2021-08-18T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 18,
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Aug 18, 2021"
+            },
+            "duration": "23 min",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 8.01,
+            "scored_by": 96835,
+            "rank": 744,
+            "popularity": 1535,
+            "members": 180800,
+            "favorites": 810,
+            "synopsis": "When Tsukasa Yuzaki receives a brand new smartphone as a surprise gift from her husband Nasa, she is delighted, quickly adding in contacts and mastering the arts of LINE and sticker-sending. However, her joy is short-lived: a former coworker calls in Nasa for a difficult job, and Tsukasa is dismayed to learn that her beloved might have to work through the night.\n\nFaced with her first night alone since her marriage to Nasa, will Tsukasa and her new phone be able to overcome the distance that separates the young couple and defeat the loneliness that threatens to pull her under?\n\n[Written by MAL Rewrite]",
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [
+                {
+                    "mal_id": 62,
+                    "type": "anime",
+                    "name": "Shogakukan-Shueisha Productions",
+                    "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+                },
+                {
+                    "mal_id": 415,
+                    "type": "anime",
+                    "name": "Warner Bros. Japan",
+                    "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+                },
+                {
+                    "mal_id": 460,
+                    "type": "anime",
+                    "name": "KlockWorx",
+                    "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+                },
+                {
+                    "mal_id": 1430,
+                    "type": "anime",
+                    "name": "Shogakukan",
+                    "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+                },
+                {
+                    "mal_id": 1468,
+                    "type": "anime",
+                    "name": "Crunchyroll",
+                    "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+                }
+            ],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 35,
+                    "type": "anime",
+                    "name": "Seven Arcs",
+                    "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "anime",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/anime/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "anime",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/anime/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 44935,
+            "url": "https://myanimelist.net/anime/44935/Ni_Hao_Ji_Zhi",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1912/127634.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1912/127634t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1912/127634l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1912/127634.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1912/127634t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1912/127634l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Ni Hao Ji Zhi"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u4f60\u597d\u9e21\u667a"
+                }
+            ],
+            "title": "Ni Hao Ji Zhi",
+            "title_english": null,
+            "title_japanese": "\u4f60\u597d\u9e21\u667a",
+            "title_synonyms": [],
+            "type": "ONA",
+            "source": "Unknown",
+            "episodes": 4,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-09-01T00:00:00+00:00",
+                "to": "2016-03-11T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 9,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": 11,
+                        "month": 3,
+                        "year": 2016
+                    }
+                },
+                "string": "Sep 1, 2015 to Mar 11, 2016"
+            },
+            "duration": "5 min per ep",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 19141,
+            "popularity": 26070,
+            "members": 129,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "anime",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/anime/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 57,
+                    "type": "anime",
+                    "name": "Gag Humor",
+                    "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 44936,
+            "url": "https://myanimelist.net/anime/44936/Baixue_Gongzhu__Shenmi_Baba",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1030/127538.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1030/127538t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1030/127538l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1030/127538.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1030/127538t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1030/127538l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Baixue Gongzhu: Shenmi Baba"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Baixue Gongzhu Zhi Shenmi Baba"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u767d\u96ea\u516c\u4e3b\u4e4b\u795e\u79d8\u7238\u7238"
+                },
+                {
+                    "type": "English",
+                    "title": "Snow White: The Mysterious Father"
+                }
+            ],
+            "title": "Baixue Gongzhu: Shenmi Baba",
+            "title_english": "Snow White: The Mysterious Father",
+            "title_japanese": "\u767d\u96ea\u516c\u4e3b\u4e4b\u795e\u79d8\u7238\u7238",
+            "title_synonyms": [
+                "Baixue Gongzhu Zhi Shenmi Baba"
+            ],
+            "type": "Movie",
+            "source": "Book",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2015-08-14T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 14,
+                        "month": 8,
+                        "year": 2015
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Aug 14, 2015"
+            },
+            "duration": "1 hr 18 min",
+            "rating": "G - All Ages",
+            "score": null,
+            "scored_by": null,
+            "rank": 15344,
+            "popularity": 25543,
+            "members": 139,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        },
+        {
+            "mal_id": 44940,
+            "url": "https://myanimelist.net/anime/44940/World_Trigger_3rd_Season",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1617/117474.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1617/117474t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1617/117474l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1617/117474.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1617/117474t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1617/117474l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": "https://www.youtube-nocookie.com/embed/zps4vghwaVk?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "World Trigger 3rd Season"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u30ef\u30fc\u30eb\u30c9\u30c8\u30ea\u30ac\u30fc"
+                },
+                {
+                    "type": "Spanish",
+                    "title": "Word Trigger Temporada 3"
+                }
+            ],
+            "title": "World Trigger 3rd Season",
+            "title_english": null,
+            "title_japanese": "\u30ef\u30fc\u30eb\u30c9\u30c8\u30ea\u30ac\u30fc",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 14,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2021-10-10T00:00:00+00:00",
+                "to": "2022-01-23T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 10,
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "to": {
+                        "day": 23,
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "string": "Oct 10, 2021 to Jan 23, 2022"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 8.25,
+            "scored_by": 55766,
+            "rank": 394,
+            "popularity": 1861,
+            "members": 141615,
+            "favorites": 1296,
+            "synopsis": "At the Border Defense Agency's headquarters, the B-Rank Wars are underway as each team fights intensely to secure a spot in the upcoming Away Mission. Though Osamu Mikumo and the rest of Tamakoma-2 have pulled through thus far, the final rounds will require them to push far beyond the limits of their current abilities. Taking in a talented new member, the squad begins to train and develop new strategies, but, amid these efforts, the team is shaken by a heated dispute\u2014one that could jeopardize their ticket to the Neighbor's dimension.\n\n[Written by MAL Rewrite]",
+            "background": "World Trigger 3rd Season was released on Blu-ray in two volumes and on DVD in four volumes from April 27, 2022, to June 22, 2022.",
+            "season": "fall",
+            "year": 2021,
+            "broadcast": {
+                "day": "Sundays",
+                "time": "01:30",
+                "timezone": "Asia/Tokyo",
+                "string": "Sundays at 01:30 (JST)"
+            },
+            "producers": [
+                {
+                    "mal_id": 55,
+                    "type": "anime",
+                    "name": "TV Asahi",
+                    "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+                }
+            ],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 18,
+                    "type": "anime",
+                    "name": "Toei Animation",
+                    "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "anime",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/anime/genre/1/Action"
+                },
+                {
+                    "mal_id": 24,
+                    "type": "anime",
+                    "name": "Sci-Fi",
+                    "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "anime",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/anime/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 44942,
+            "url": "https://myanimelist.net/anime/44942/Shuumatsu_no_Walk\u00fcre",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1456/115123.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1456/115123t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1456/115123l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1456/115123.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1456/115123t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1456/115123l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": "https://www.youtube-nocookie.com/embed/qaOVEnq379A?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Shuumatsu no Walk\u00fcre"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Shuumatsu no Valkyrie"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Valkyrie of the End"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Valkyrie Apocalypse"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u7d42\u672b\u306e\u30ef\u30eb\u30ad\u30e5\u30fc\u30ec"
+                },
+                {
+                    "type": "English",
+                    "title": "Record of Ragnarok"
+                },
+                {
+                    "type": "German",
+                    "title": "Record of Ragnarok"
+                },
+                {
+                    "type": "Spanish",
+                    "title": "Record of Ragnarok"
+                },
+                {
+                    "type": "French",
+                    "title": "Valkyrie Apocalypse"
+                }
+            ],
+            "title": "Shuumatsu no Walk\u00fcre",
+            "title_english": "Record of Ragnarok",
+            "title_japanese": "\u7d42\u672b\u306e\u30ef\u30eb\u30ad\u30e5\u30fc\u30ec",
+            "title_synonyms": [
+                "Shuumatsu no Valkyrie",
+                "Valkyrie of the End",
+                "Valkyrie Apocalypse"
+            ],
+            "type": "ONA",
+            "source": "Manga",
+            "episodes": 12,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2021-06-17T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 17,
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Jun 17, 2021"
+            },
+            "duration": "24 min per ep",
+            "rating": "R - 17+ (violence & profanity)",
+            "score": 6.84,
+            "scored_by": 222809,
+            "rank": 6094,
+            "popularity": 694,
+            "members": 393470,
+            "favorites": 2117,
+            "synopsis": "The gods of the world\u2014from Greek to Norse to Hindu mythology\u2014gather every one thousand years to make one important decision: whether or not to wipe out mankind. Repulsed by humanity's selfishness, the council unanimously votes to destroy all humans. But before the decree is enacted, Brunhilde, one of the 13 Valkyries of Valhalla, interrupts the meeting to give mankind a chance at survival. \n\nBrunhilde proposes the idea of enacting Ragnar\u00f6k, an event in which the strongest 13 mortal warriors fight against 13 gods in one-on-one matches. Although the trial is ridiculed by the gods, the demigod takes advantage of their pride and forces them into an agreement. However, Brunhilde herself must recruit the mightiest heroes throughout humanity's thousand-year history and guide them to victory before they meet their untimely demise.\n\n[Written by MAL Rewrite]",
+            "background": "Shuumatsu no Walk\u00fcre premiered worldwide exclusively on Netflix on June 17, 2021. The OVA has been dubbed in English by SDI Media; in French by Cin\u00e9phase; in German by SDI Media Germany; in Italian; in Portuguese by Unimedia; and in Spanish by SDI Spain.",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [
+                {
+                    "mal_id": 143,
+                    "type": "anime",
+                    "name": "Mainichi Broadcasting System",
+                    "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+                },
+                {
+                    "mal_id": 415,
+                    "type": "anime",
+                    "name": "Warner Bros. Japan",
+                    "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+                },
+                {
+                    "mal_id": 460,
+                    "type": "anime",
+                    "name": "KlockWorx",
+                    "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+                },
+                {
+                    "mal_id": 995,
+                    "type": "anime",
+                    "name": "Coamix",
+                    "url": "https://myanimelist.net/anime/producer/995/Coamix"
+                },
+                {
+                    "mal_id": 1345,
+                    "type": "anime",
+                    "name": "Sammy",
+                    "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+                },
+                {
+                    "mal_id": 3155,
+                    "type": "anime",
+                    "name": "Team-MAX",
+                    "url": "https://myanimelist.net/anime/producer/3155/Team-MAX"
+                }
+            ],
+            "licensors": [
+                {
+                    "mal_id": 119,
+                    "type": "anime",
+                    "name": "VIZ Media",
+                    "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+                }
+            ],
+            "studios": [
+                {
+                    "mal_id": 894,
+                    "type": "anime",
+                    "name": "Graphinica",
+                    "url": "https://myanimelist.net/anime/producer/894/Graphinica"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "anime",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/anime/genre/1/Action"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "anime",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/anime/genre/8/Drama"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 58,
+                    "type": "anime",
+                    "name": "Gore",
+                    "url": "https://myanimelist.net/anime/genre/58/Gore"
+                },
+                {
+                    "mal_id": 6,
+                    "type": "anime",
+                    "name": "Mythology",
+                    "url": "https://myanimelist.net/anime/genre/6/Mythology"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 42,
+                    "type": "anime",
+                    "name": "Seinen",
+                    "url": "https://myanimelist.net/anime/genre/42/Seinen"
+                }
+            ]
+        },
+        {
+            "mal_id": 44943,
+            "url": "https://myanimelist.net/anime/44943/Alibaba_2__Solomon_Fengyin",
+            "images": {
+                "jpg": {
+                    "image_url": "https://myanimelist.net/images/anime/1091/127939.jpg",
+                    "small_image_url": "https://myanimelist.net/images/anime/1091/127939t.jpg",
+                    "large_image_url": "https://myanimelist.net/images/anime/1091/127939l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://myanimelist.net/images/anime/1091/127939.webp",
+                    "small_image_url": "https://myanimelist.net/images/anime/1091/127939t.webp",
+                    "large_image_url": "https://myanimelist.net/images/anime/1091/127939l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Alibaba 2: Solomon Fengyin"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "\u963f\u91cc\u5df4\u5df4\uff1a\u6240\u7f57\u95e8\u5c01\u5370"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "\u963f\u91cc\u5df4\u5df42\u6240\u7f57\u95e8\u5c01\u5370"
+                },
+                {
+                    "type": "English",
+                    "title": "Alibaba 2: Seal of Solomon"
+                }
+            ],
+            "title": "Alibaba 2: Solomon Fengyin",
+            "title_english": "Alibaba 2: Seal of Solomon",
+            "title_japanese": "\u963f\u91cc\u5df4\u5df42\u6240\u7f57\u95e8\u5c01\u5370",
+            "title_synonyms": [
+                "\u963f\u91cc\u5df4\u5df4\uff1a\u6240\u7f57\u95e8\u5c01\u5370"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2016-04-30T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 30,
+                        "month": 4,
+                        "year": 2016
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Apr 30, 2016"
+            },
+            "duration": "1 hr 21 min",
+            "rating": "PG - Children",
+            "score": null,
+            "scored_by": null,
+            "rank": 15117,
+            "popularity": 25148,
+            "members": 148,
+            "favorites": 0,
+            "synopsis": null,
+            "background": "",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [],
+            "genres": [
+                {
+                    "mal_id": 2,
+                    "type": "anime",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/anime/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 15,
+                    "type": "anime",
+                    "name": "Kids",
+                    "url": "https://myanimelist.net/anime/genre/15/Kids"
+                }
+            ]
+        }
+    ]
+}
