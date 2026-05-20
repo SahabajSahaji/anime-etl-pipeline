@@ -9,7 +9,7 @@ def run_pipeline():
     # df.to_csv("data/raw/anime.csv",index=False)
     extract_all_anime()
     #next work on Transformation
-    
+    #I Need some time to get to next step of the project
 
 
 
