@@ -10,6 +10,7 @@ def run_pipeline():
     extract_all_anime()
     #next work on Transformation
     #I Need some time to get to next step of the project
+    # To be continued
 
 
 
