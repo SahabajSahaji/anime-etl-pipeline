@@ -6,102 +6,131 @@ raw_dir=Path("data/raw")
 
 processed_dir=Path("data/processed")
 
-processed_dir.mkdir(
-    parents=True,
-    exist_ok=True
-)
+processed_dir.mkdir(parents=True,exist_ok=True)
+
+log_dir=Path("logs")
+
+log_dir.mkdir(parents=True,exist_ok=True)
 
 output_file=processed_dir/"anime_clean.csv"
 
-anime_list=[]
+checkpoint_file=log_dir / "processed_file.txt"
 
-for json_file in raw_dir.glob("*.json"):
-    print(f"Reading {json_file.name}")
+error_log=log_dir / "error_log.txt"
 
-    with open(json_file,"r",encoding="utf-8") as f:
-        data=json.load(f)
-    
-    #Get anime list
-    for anime in data.get("data",[]):
-        #Genres
-        genres_name=[
-            genre["name"]
-            for genre in anime.get("genres",[])
-        ]
-        
-        #English title fallback
-        english_title=anime.get("title_english")
-        default_title=anime.get("title")
+#Load Processed Files
 
-        final_title={
-            english_title
-            if english_title
-            else default_title
-        }
+processed_files=set()
 
-        #Append cleaned data
+if checkpoint_file.exists():
 
-        anime_list.append({
+    with open(checkpoint_file,"r",encoding="utf-8") as f:
+        processed_files=set(line.strip() for line in f)
 
-            "mal_id": anime.get("mal_id"),
+csv_exists =output_file.exists()
 
-            "title": final_title,
+json_files =sorted(raw_dir.glob("*.json"))
 
-            "episodes": anime.get("episodes"),
+for json_file in json_files:
 
-            "status": anime.get("status"),
+    # Skip already processed files
+    if json_file.name in processed_files:
 
-            "aired": anime.get("aired",{}).get("string"),
+        print(f"Skipping {json_file.name}")
+        continue
 
-            "duration": anime.get("duration"),
+    try:
 
-            "rating": anime.get("rating"),
+        print(f"Processing {json_file.name}")
 
-            "score": anime.get("score"),
+        # Read JSON
+        with open(json_file,"r",encoding="utf-8") as f:
 
-            "scored_by": anime.get("scored_by"),
+            data = json.load(f)
 
-            "MyAnimeList_Rank": anime.get("rank")
-
-            "popularity": anime.get("popularity"),
-
-            "members": anime.get("members"),
-
-            "favorites": anime.get("favorites"),
-
-            "year": anime.get("year"),
-
-            "season": anime.get("season"),
-
-            "studios": ", ".join(
-                studio["name"]
-                for studio in anime.get("studios",[])
-            ),
-
-            "genres": ", ".join(genres_name)
-
-        })
-
-# Create DataFrame
-
-df=pd.DataFrame(anime_list)
-
-#Remove duplicates
-
-df.drop_duplicates(
-    subset=["mal_id"],
-    inplace=True
-)
+        anime_list = []
 
 
-# Create processed folder
+        for anime in data.get("data", []):
+
+            genres_name = [genre["name"]for genre in anime.get("genres",[])]
+
+            english_title = anime.get("title_english")
+
+            default_title = anime.get("title")
+
+            final_title = (english_title if english_title else default_title)
+
+            anime_list.append({
+
+                "mal_id": anime.get("mal_id"),
+
+                "title": final_title,
+
+                "episodes": anime.get("episodes"),
+
+                "status": anime.get("status"),
+
+                "aired": anime.get("aired",{}).get("string"),
+
+                "duration": anime.get("duration"),
+
+                "rating": anime.get("rating"),
+
+                "score": anime.get("score"),
+
+                "scored_by": anime.get("scored_by"),
+
+                "MyAnimeList_Rank": anime.get("rank"),
+
+                "popularity": anime.get("popularity"),
+
+                "members": anime.get("members"),
+
+                "favorites": anime.get("favorites"),
+
+                "year": anime.get("year"),
+
+                "season": anime.get("season"),
+
+                "studios": ", ".join(studio["name"]for studio in anime.get("studios",[])),
+
+                "genres": ", ".join(genres_name)
+
+            })
+
+        # Create DataFrame
+
+        df=pd.DataFrame(anime_list)
+
+        #Remove duplicates
+
+        df.drop_duplicates(subset=["mal_id"],inplace=True)
 
 
-df.to_csv(
-    output_file,
-    index=False,
-    encoding="utf-8"
-)
+
+
+        df.to_csv(output_file,index=False,encoding="utf-8")
+
+        #CSV now exists
+
+        csv_exists= True
+
+        #Save CheckPoint
+
+        with open (checkpoint_file,"a",encoding="utf-8") as f:
+            f.write(json_file.name + "\n")
+
+    except Exception as e:
+
+        print(f"Error in {json_file.name}")
+
+        print(e)
+
+        #Save error log
+        with open(error_log,"a",encoding="utf-8") as log:
+            log.write(f"{json_file.name}-> {e}\n")
+            
 
 print("\nTransformation complete")
 print(f"Total Anime: {len(df)}")
