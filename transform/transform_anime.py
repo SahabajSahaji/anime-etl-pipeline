@@ -109,8 +109,9 @@ for json_file in json_files:
 
 
 
-
-        df.to_csv(output_file,index=False,encoding="utf-8")
+        #if we didn't mention mode as a it will automatically use mode "w"for this every json page data override over and over till the last json file
+        #so we only get the last json file as here we need to mention mode as "a"
+        df.to_csv(output_file,mode="a",header=not csv_exists,index=False,encoding="utf-8")
 
         #CSV now exists
 
@@ -131,7 +132,8 @@ for json_file in json_files:
         with open(error_log,"a",encoding="utf-8") as log:
             log.write(f"{json_file.name}-> {e}\n")
             
+final_df = pd.read_csv(output_file)
 
 print("\nTransformation complete")
-print(f"Total Anime: {len(df)}")
+print(f"Total Anime: {len(final_df)}")
 print(f"Saved: {output_file}")
