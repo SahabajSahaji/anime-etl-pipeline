@@ -12,6 +12,7 @@ def run_pipeline():
     #I Need some time to get to next step of the project
     # To be continued
     # I will work on you on Sunday
+    #Now i will start for scoreing and etc
 
 
 
