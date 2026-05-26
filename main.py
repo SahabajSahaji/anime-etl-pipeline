@@ -13,6 +13,7 @@ def run_pipeline():
     # To be continued
     # I will work on you on Sunday
     #Now i will start for scoreing and etc
+    #Work on this after eid
 
 
 
