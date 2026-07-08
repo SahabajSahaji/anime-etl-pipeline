@@ -1,17 +1,18 @@
 ===== DATA QUALITY REPORT =====
 
-Total Anime: 30159
+Total Records: 30014
+Valid Records: 5008
+Records With Issues: 25006
 
-Missing Titles: 0
-Missing Scores: 10209
-Missing Genres: 6421
-Missing Studios: 11971
-Missing Year: 23621
+Missing Title: 0
+Missing Score: 10093
+Missing Genres: 6404
+Missing Studios: 11917
+Missing Year: 23517
 Missing Popularity: 0
-Invalid Scores: 0
+Invalid Score: 0
 Invalid Episodes: 0
-Duplicate MAL IDs: 145
+Duplicate MAL ID: 0
 
-Total Issues: 52367
-
-Data Quality Score: -73.64%
+Total Issues: 51931
+Data Quality Score: 16.69%

@@ -1,47 +1,61 @@
+"""Atomic SQLite loader for the processed anime dataset."""
+
+from __future__ import annotations
+
+import logging
+import os
 import sqlite3
-import pandas as pd
 from pathlib import Path
 
+import pandas as pd
 
-csv_file=Path("data/processed/anime_clean.csv")
+from config import DATABASE_FILE, PROCESSED_FILE, ensure_directories
 
-database_dir=Path("data/database")
+LOGGER = logging.getLogger(__name__)
 
-database_dir.mkdir(parents=True ,exist_ok=True)
 
-database_file=(database_dir/"anime.db")
+def load_to_sqlite(
+    csv_file: Path = PROCESSED_FILE, database_file: Path = DATABASE_FILE
+) -> int:
+    """Create a new indexed database and atomically replace the prior version."""
+    ensure_directories()
+    frame = pd.read_csv(csv_file)
+    if frame.empty:
+        raise ValueError("Refusing to load an empty dataset")
+    if frame["mal_id"].isna().any() or frame["mal_id"].duplicated().any():
+        raise ValueError("mal_id must be non-null and unique before loading")
 
-#Read CSV file:---
+    temporary = database_file.with_suffix(".db.tmp")
+    temporary.unlink(missing_ok=True)
+    connection: sqlite3.Connection | None = None
+    try:
+        connection = sqlite3.connect(temporary)
+        try:
+            frame.to_sql("anime", connection, if_exists="fail", index=False, chunksize=1000)
+            connection.executescript(
+                """
+                CREATE UNIQUE INDEX ux_anime_mal_id ON anime(mal_id);
+                CREATE INDEX ix_anime_score ON anime(score);
+                CREATE INDEX ix_anime_popularity ON anime(popularity);
+                CREATE INDEX ix_anime_year ON anime(year);
+                """
+            )
+            connection.execute("PRAGMA optimize")
+            connection.commit()
+        finally:
+            connection.close()
+            connection = None
+        os.replace(temporary, database_file)
+    except Exception:
+        if connection is not None:
+            connection.close()
+        temporary.unlink(missing_ok=True)
+        raise
+    LOGGER.info("Loaded %s rows into %s", len(frame), database_file)
+    return len(frame)
 
-print("Reading CSV ...")
 
-df=pd.read_csv(csv_file)
-
-print(f"Rows Loaded : {len(df)}")
-
-#Create Database:---
-
-conn=sqlite3.connect(database_file)
-
-print("Connected to SQLite")
-
-#Load to Database:---
-
-df.to_sql(name="anime",con=conn,if_exists="replace",index=False)
-
-print("Data Loaded into SQLite")
-
-#Verify Data
-
-query="""
-SELECT COUNT(*) as Total_Anime 
-FROM anime
-"""
-
-result=pd.read_sql(query,conn)
-
-print(result)
-
-conn.close()
-
-print("Database Connection Closed...")
+if __name__ == "__main__":
+    from pipeline_logging import configure_logging
+    configure_logging()
+    load_to_sqlite()

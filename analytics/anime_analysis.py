@@ -1,11 +1,9 @@
 import sqlite3
 import pandas as pd
-from pathlib import Path
+from config import DATABASE_FILE
 
 
-database_file=Path("data/database/anime.db")
-
-conn=sqlite3.connect(database_file)
+conn=sqlite3.connect(DATABASE_FILE)
 
 print("Connect to database")
 

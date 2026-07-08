@@ -1,139 +1,99 @@
+"""Transform raw Jikan pages into one deterministic, deduplicated CSV."""
+
+from __future__ import annotations
+
 import json
-import pandas as pd
+import logging
+import os
 from pathlib import Path
+from typing import Any, Iterable
 
-raw_dir=Path("data/raw")
+import pandas as pd
 
-processed_dir=Path("data/processed")
+from config import PROCESSED_FILE, RAW_DIR, ensure_directories
 
-processed_dir.mkdir(parents=True,exist_ok=True)
+LOGGER = logging.getLogger(__name__)
 
-log_dir=Path("logs")
+COLUMNS = [
+    "mal_id", "title", "episodes", "status", "aired", "duration", "rating",
+    "score", "scored_by", "MyAnimeList_Rank", "popularity", "members",
+    "favorites", "year", "season", "studios", "genres",
+]
 
-log_dir.mkdir(parents=True,exist_ok=True)
 
-output_file=processed_dir/"anime_clean.csv"
-
-checkpoint_file=log_dir / "processed_file.txt"
-
-error_log=log_dir / "error_log.txt"
-
-#Load Processed Files
-
-processed_files=set()
-
-if checkpoint_file.exists():
-
-    with open(checkpoint_file,"r",encoding="utf-8") as f:
-        processed_files=set(line.strip() for line in f)
-
-csv_exists =output_file.exists()
-
-json_files =sorted(raw_dir.glob("*.json"))
-
-for json_file in json_files:
-
-    # Skip already processed files
-    if json_file.name in processed_files:
-
-        print(f"Skipping {json_file.name}")
-        continue
-
+def _page_number(path: Path) -> int:
     try:
-
-        print(f"Processing {json_file.name}")
-
-        # Read JSON
-        with open(json_file,"r",encoding="utf-8") as f:
-
-            data = json.load(f)
-
-        anime_list = []
+        return int(path.stem.rsplit("_", 1)[1])
+    except (IndexError, ValueError):
+        return 0
 
 
-        for anime in data.get("data", []):
-
-            genres_name = [genre["name"]for genre in anime.get("genres",[])]
-
-            english_title = anime.get("title_english")
-
-            default_title = anime.get("title")
-
-            final_title = (english_title if english_title else default_title)
-
-            anime_list.append({
-
-                "mal_id": anime.get("mal_id"),
-
-                "title": final_title,
-
-                "episodes": anime.get("episodes"),
-
-                "status": anime.get("status"),
-
-                "aired": anime.get("aired",{}).get("string"),
-
-                "duration": anime.get("duration"),
-
-                "rating": anime.get("rating"),
-
-                "score": anime.get("score"),
-
-                "scored_by": anime.get("scored_by"),
-
-                "MyAnimeList_Rank": anime.get("rank"),
-
-                "popularity": anime.get("popularity"),
-
-                "members": anime.get("members"),
-
-                "favorites": anime.get("favorites"),
-
-                "year": anime.get("year"),
-
-                "season": anime.get("season"),
-
-                "studios": ", ".join(studio["name"]for studio in anime.get("studios",[])),
-
-                "genres": ", ".join(genres_name)
-
-            })
-
-        # Create DataFrame
-
-        df=pd.DataFrame(anime_list)
-
-        #Remove duplicates
-
-        df.drop_duplicates(subset=["mal_id"],inplace=True)
+def _names(values: Iterable[dict[str, Any]] | None) -> str:
+    return ", ".join(
+        str(item["name"]) for item in (values or []) if item.get("name")
+    )
 
 
+def _record(anime: dict[str, Any]) -> dict[str, Any]:
+    aired = anime.get("aired") or {}
+    return {
+        "mal_id": anime.get("mal_id"),
+        "title": anime.get("title_english") or anime.get("title"),
+        "episodes": anime.get("episodes"),
+        "status": anime.get("status"),
+        "aired": aired.get("string"),
+        "duration": anime.get("duration"),
+        "rating": anime.get("rating"),
+        "score": anime.get("score"),
+        "scored_by": anime.get("scored_by"),
+        "MyAnimeList_Rank": anime.get("rank"),
+        "popularity": anime.get("popularity"),
+        "members": anime.get("members"),
+        "favorites": anime.get("favorites"),
+        "year": anime.get("year"),
+        "season": anime.get("season"),
+        "studios": _names(anime.get("studios")),
+        "genres": _names(anime.get("genres")),
+    }
 
-        #if we didn't mention mode as a it will automatically use mode "w"for this every json page data override over and over till the last json file
-        #so we only get the last json file as here we need to mention mode as "a"
-        df.to_csv(output_file,mode="a",header=not csv_exists,index=False,encoding="utf-8")
 
-        #CSV now exists
+def transform_anime(
+    raw_dir: Path = RAW_DIR, output_file: Path = PROCESSED_FILE
+) -> pd.DataFrame:
+    """Build the processed dataset from scratch so reruns are idempotent."""
+    ensure_directories()
+    files = sorted(raw_dir.glob("anime_page_*.json"), key=_page_number)
+    if not files:
+        raise FileNotFoundError(f"No raw anime pages found in {raw_dir}")
 
-        csv_exists= True
+    records: list[dict[str, Any]] = []
+    for path in files:
+        try:
+            with path.open("r", encoding="utf-8") as handle:
+                payload = json.load(handle)
+            data = payload.get("data")
+            if not isinstance(data, list):
+                raise ValueError("'data' must be a list")
+            records.extend(_record(anime) for anime in data)
+        except (OSError, json.JSONDecodeError, ValueError) as exc:
+            raise RuntimeError(f"Invalid raw page {path.name}: {exc}") from exc
 
-        #Save CheckPoint
+    frame = pd.DataFrame.from_records(records, columns=COLUMNS)
+    before = len(frame)
+    frame = frame.dropna(subset=["mal_id"]).drop_duplicates("mal_id", keep="last")
+    frame = frame.sort_values("mal_id").reset_index(drop=True)
 
-        with open (checkpoint_file,"a",encoding="utf-8") as f:
-            f.write(json_file.name + "\n")
+    temporary = output_file.with_suffix(".csv.tmp")
+    frame.to_csv(temporary, index=False, encoding="utf-8")
+    os.replace(temporary, output_file)
+    LOGGER.info(
+        "Transformation complete: %s rows (%s duplicates removed)",
+        len(frame), before - len(frame),
+    )
+    return frame
 
-    except Exception as e:
 
-        print(f"Error in {json_file.name}")
-
-        print(e)
-
-        #Save error log
-        with open(error_log,"a",encoding="utf-8") as log:
-            log.write(f"{json_file.name}-> {e}\n")
-            
-final_df = pd.read_csv(output_file)
-
-print("\nTransformation complete")
-print(f"Total Anime: {len(final_df)}")
-print(f"Saved: {output_file}")
+if __name__ == "__main__":
+    from pipeline_logging import configure_logging
+    configure_logging()
+    transform_anime()

@@ -2,7 +2,7 @@ import sqlite3
 import pandas as pd
 import streamlit as st
 import plotly.express as px
-from pathlib import Path
+from config import DATABASE_FILE
 
 st.set_page_config(page_title="Anime Analytic Dashboard",layout="wide")
 
@@ -10,8 +10,7 @@ st.title("Anime Analytics Dashboard")
 
 #Database connection
 
-database_file=Path("data/database/anime.db")
-conn=sqlite3.connect(database_file)
+conn=sqlite3.connect(DATABASE_FILE)
 
 query="""
 SELECT *
