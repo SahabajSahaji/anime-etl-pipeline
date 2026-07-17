@@ -58,7 +58,7 @@ class PipelineTest(unittest.TestCase):
 
             metrics = validate_anime(csv_file, report, invalid)
             self.assertEqual(metrics["total_records"], 2)
-            self.assertEqual(metrics["records_with_issues"], 1)
+            self.assertEqual(metrics["critical_records"], 1)
             self.assertEqual(metrics["quality_score"], 50.0)
 
             self.assertEqual(load_to_sqlite(csv_file, database), 2)
