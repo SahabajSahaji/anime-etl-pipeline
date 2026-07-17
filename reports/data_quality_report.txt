@@ -1,18 +1,22 @@
 ===== DATA QUALITY REPORT =====
 
 Total Records: 30014
-Valid Records: 5008
-Records With Issues: 25006
-
+Valid Records: 30014
+Critical Records: 0
+Records With Warnings: 25006
+===== CRITICAL ERRORS =====
 Missing Title: 0
-Missing Score: 10093
-Missing Genres: 6404
-Missing Studios: 11917
-Missing Year: 23517
 Missing Popularity: 0
 Invalid Score: 0
 Invalid Episodes: 0
 Duplicate MAL ID: 0
 
-Total Issues: 51931
-Data Quality Score: 16.69%
+===== WARNINGS =====
+Missing Score: 10093
+Missing Genres: 6404
+Missing Studios: 11917
+Missing Year: 23517
+Missing Season: 23517
+
+Total Issues: 75448
+Data Quality Score: 100.00%

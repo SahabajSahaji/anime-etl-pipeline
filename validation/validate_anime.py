@@ -36,20 +36,37 @@ def validate_anime(
     if frame.empty:
         raise ValueError("Processed dataset is empty")
 
-    checks = {
-        "Missing Title": frame["title"].isna() | frame["title"].astype(str).str.strip().eq(""),
+    critical_checks = {
+    "Missing Title": frame["title"].isna()
+        | frame["title"].astype(str).str.strip().eq(""),
+
+    "Missing Popularity": frame["popularity"].isna(),
+
+    "Invalid Score": frame["score"].notna()
+        & ~frame["score"].between(0, 10),
+
+    "Invalid Episodes": frame["episodes"].notna()
+        & frame["episodes"].lt(0),
+
+    "Duplicate MAL ID": frame["mal_id"].duplicated(keep=False),
+}
+
+    warning_checks = {
         "Missing Score": frame["score"].isna(),
-        "Missing Genres": frame["genres"].isna() | frame["genres"].fillna("").str.strip().eq(""),
-        "Missing Studios": frame["studios"].isna() | frame["studios"].fillna("").str.strip().eq(""),
+
+        "Missing Genres": frame["genres"].isna()
+            | frame["genres"].fillna("").str.strip().eq(""),
+
+        "Missing Studios": frame["studios"].isna()
+            | frame["studios"].fillna("").str.strip().eq(""),
+
         "Missing Year": frame["year"].isna(),
-        "Missing Popularity": frame["popularity"].isna(),
-        "Invalid Score": frame["score"].notna() & ~frame["score"].between(0, 10),
-        "Invalid Episodes": frame["episodes"].notna() & frame["episodes"].lt(0),
-        "Duplicate MAL ID": frame["mal_id"].duplicated(keep=False),
+
+        "Missing Season": frame["season"].isna(),
     }
 
     invalid_parts = []
-    for issue, mask in checks.items():
+    for issue, mask in {**critical_checks, **warning_checks}.items():
         if mask.any():
             part = frame.loc[mask, ["mal_id", "title"]].copy()
             part["issue"] = issue
@@ -61,13 +78,32 @@ def validate_anime(
     )
     invalid.to_csv(invalid_records_file, index=False, encoding="utf-8")
 
-    failed_rows = pd.concat([mask for mask in checks.values()], axis=1).any(axis=1).sum()
-    valid_rows = len(frame) - int(failed_rows)
+    critical_rows = (
+        pd.concat(
+            [mask for mask in critical_checks.values()],
+            axis=1,
+        )
+        .any(axis=1)
+        .sum()
+    )
+
+    warning_rows = (
+        pd.concat(
+            [mask for mask in warning_checks.values()],
+            axis=1,
+        )
+        .any(axis=1)
+        .sum()
+    )
+
+    valid_rows = len(frame) - int(critical_rows)
+
     quality_score = valid_rows / len(frame) * 100
     metrics: dict[str, float | int] = {
         "total_records": len(frame),
         "valid_records": valid_rows,
-        "records_with_issues": int(failed_rows),
+        "critical_records": int(critical_rows),
+        "records_with_warnings": int(warning_rows),
         "total_issues": len(invalid),
         "quality_score": quality_score,
     }
@@ -76,9 +112,23 @@ def validate_anime(
         "===== DATA QUALITY REPORT =====", "",
         f"Total Records: {len(frame)}",
         f"Valid Records: {valid_rows}",
-        f"Records With Issues: {failed_rows}", "",
+        f"Critical Records: {critical_rows}",
+        f"Records With Warnings: {warning_rows}" "",
     ]
-    lines.extend(f"{name}: {int(mask.sum())}" for name, mask in checks.items())
+    lines.append("===== CRITICAL ERRORS =====")
+
+    lines.extend(
+        f"{name}: {int(mask.sum())}"
+        for name, mask in critical_checks.items()
+    )
+
+    lines.append("")
+    lines.append("===== WARNINGS =====")
+
+    lines.extend(
+        f"{name}: {int(mask.sum())}"
+        for name, mask in warning_checks.items()
+    )
     lines.extend(["", f"Total Issues: {len(invalid)}", f"Data Quality Score: {quality_score:.2f}%"])
     report_file.write_text("\n".join(lines) + "\n", encoding="utf-8")
     LOGGER.info("Validation complete: %.2f%% record quality", quality_score)
